@@ -1,6 +1,3 @@
-# Sherry's notes
-
-
 # Smartprimer simulation environment
 
 This repository contains an OpenAI gym environment for simulating high school children that try to solve a problem and
