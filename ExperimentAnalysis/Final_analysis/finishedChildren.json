@@ -1,0 +1,1690 @@
+{
+  "data": {
+    "test": [
+      {
+        "adjusted_score": null,
+        "user_id": 16
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 29
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 7
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 2
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 10
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 13
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 17
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 19
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 14
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 15
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 21
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 20
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 22
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 23
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 58
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 59
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 70
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 60
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 61
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 31
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 24
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 3
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 8
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 73
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 32
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 33
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 71
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 34
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 36
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 65
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 38
+      },
+      {
+        "adjusted_score": 9,
+        "user_id": 9
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 67
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 11
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 28
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 39
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 66
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 5
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 30
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 40
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 42
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 41
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 68
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 63
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 43
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 44
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 45
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 46
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 47
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 48
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 51
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 52
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 53
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 54
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 55
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 85
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 4
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 64
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 78
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 74
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 69
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 6
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 25
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 75
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 76
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 87
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 86
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 79
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 83
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 80
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 84
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 81
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 88
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 93
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 26
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 89
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 94
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 90
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 92
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 98
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 99
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 101
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 95
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 106
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 107
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 108
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 109
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 103
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 97
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 110
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 111
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 112
+      },
+      {
+        "adjusted_score": 6,
+        "user_id": 145
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 146
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 144
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 147
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 105
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 151
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 148
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 153
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 152
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 149
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 150
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 102
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 156
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 157
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 158
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 155
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 160
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 161
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 162
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 159
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 179
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 167
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 168
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 170
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 163
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 164
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 181
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 171
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 196
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 177
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 172
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 174
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 175
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 194
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 197
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 165
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 176
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 198
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 188
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 193
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 195
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 183
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 184
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 186
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 190
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 199
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 202
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 204
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 227
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 228
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 230
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 231
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 229
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 225
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 226
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 233
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 207
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 206
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 209
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 208
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 210
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 212
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 213
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 214
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 215
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 211
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 219
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 222
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 223
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 217
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 224
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 234
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 238
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 235
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 236
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 241
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 240
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 242
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 191
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 182
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 247
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 246
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 243
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 257
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 258
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 260
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 256
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 262
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 154
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 259
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 249
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 251
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 253
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 252
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 254
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 264
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 265
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 285
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 266
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 267
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 268
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 269
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 270
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 271
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 221
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 273
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 272
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 275
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 274
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 276
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 277
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 278
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 279
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 280
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 283
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 284
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 282
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 304
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 306
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 308
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 310
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 312
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 287
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 288
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 286
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 289
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 290
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 311
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 293
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 292
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 294
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 296
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 301
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 300
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 291
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 314
+      },
+      {
+        "adjusted_score": 6,
+        "user_id": 316
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 313
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 320
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 321
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 322
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 323
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 325
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 337
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 339
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 327
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 329
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 330
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 331
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 305
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 332
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 333
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 335
+      },
+      {
+        "adjusted_score": null,
+        "user_id": 27
+      },
+      {
+        "adjusted_score": 6,
+        "user_id": 334
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 318
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 350
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 352
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 351
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 353
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 355
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 344
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 356
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 360
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 359
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 358
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 357
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 364
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 378
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 366
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 367
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 371
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 363
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 372
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 373
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 374
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 377
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 368
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 369
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 341
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 382
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 384
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 383
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 385
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 387
+      },
+      {
+        "adjusted_score": 8,
+        "user_id": 389
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 390
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 104
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 391
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 388
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 392
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 393
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 395
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 396
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 398
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 376
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 403
+      },
+      {
+        "adjusted_score": 6,
+        "user_id": 404
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 407
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 365
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 405
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 410
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 419
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 415
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 413
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 422
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 423
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 433
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 435
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 442
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 427
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 428
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 456
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 432
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 430
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 457
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 458
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 436
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 454
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 411
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 455
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 459
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 437
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 440
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 443
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 444
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 445
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 446
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 441
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 448
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 450
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 451
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 449
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 463
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 464
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 465
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 505
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 467
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 469
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 475
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 476
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 477
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 474
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 478
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 461
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 479
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 299
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 513
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 514
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 515
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 516
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 517
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 512
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 508
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 511
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 338
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 417
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 354
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 520
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 524
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 519
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 521
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 525
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 526
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 510
+      },
+      {
+        "adjusted_score": 6,
+        "user_id": 528
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 527
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 523
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 530
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 261
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 533
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 522
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 532
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 470
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 536
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 537
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 539
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 548
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 547
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 552
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 540
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 542
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 543
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 544
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 429
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 553
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 545
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 555
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 556
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 557
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 538
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 564
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 566
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 565
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 567
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 549
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 559
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 558
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 561
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 563
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 560
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 568
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 569
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 572
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 571
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 577
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 576
+      },
+      {
+        "adjusted_score": 3,
+        "user_id": 578
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 575
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 574
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 579
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 580
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 573
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 581
+      },
+      {
+        "adjusted_score": 2,
+        "user_id": 562
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 585
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 588
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 589
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 586
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 590
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 592
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 531
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 584
+      },
+      {
+        "adjusted_score": 5,
+        "user_id": 593
+      },
+      {
+        "adjusted_score": 1,
+        "user_id": 541
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 595
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 591
+      },
+      {
+        "adjusted_score": 4,
+        "user_id": 529
+      },
+      {
+        "adjusted_score": 0,
+        "user_id": 594
+      }
+    ]
+  }
+}

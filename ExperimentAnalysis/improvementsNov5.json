@@ -1,0 +1,878 @@
+{
+  "data": {
+    "test": [
+      {
+        "post_score": null,
+        "id": "ea839314-0481-495d-96d6-fafac85ba515",
+        "user_id": 16,
+        "adjusted_score": null,
+        "updated_at": "2020-07-20T04:36:33.94416+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "70986d34-50dd-4388-90b3-b8d6a01a46ed",
+        "user_id": 29,
+        "adjusted_score": null,
+        "updated_at": "2020-07-09T16:36:19.363529+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 0,
+        "id": "a963f76b-9b4b-4cc5-81a3-780016957615",
+        "user_id": 7,
+        "adjusted_score": null,
+        "updated_at": "2020-04-28T04:23:50.942709+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 0,
+        "id": "ea4927d5-027d-48ef-b374-7d3538d3ee21",
+        "user_id": 2,
+        "adjusted_score": null,
+        "updated_at": "2020-04-18T15:20:49.944739+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 2,
+        "id": "ba75b1b8-1915-41d4-8597-60a81df41bd8",
+        "user_id": 10,
+        "adjusted_score": null,
+        "updated_at": "2020-05-01T21:46:30.581907+00:00",
+        "pre_score": 5
+      },
+      {
+        "post_score": 7,
+        "id": "ee191105-9ace-4043-b3dc-49ed787e99a5",
+        "user_id": 13,
+        "adjusted_score": null,
+        "updated_at": "2020-05-07T21:34:12.302204+00:00",
+        "pre_score": 5
+      },
+      {
+        "post_score": null,
+        "id": "5481852f-3ec7-46d5-b852-7fef34761a72",
+        "user_id": 17,
+        "adjusted_score": null,
+        "updated_at": "2020-05-13T16:30:19.193923+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 1,
+        "id": "475faad1-1165-43df-a8c7-e9ad5240c2f3",
+        "user_id": 19,
+        "adjusted_score": null,
+        "updated_at": "2020-05-13T16:57:21.022699+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "ff2afc8c-71a1-4c1e-b98a-6cbd08b7be9d",
+        "user_id": 14,
+        "adjusted_score": null,
+        "updated_at": "2020-05-14T16:34:35.287625+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 7,
+        "id": "c293b518-657a-4829-99b8-e4240b3cd0a5",
+        "user_id": 15,
+        "adjusted_score": null,
+        "updated_at": "2020-05-14T21:43:05.046842+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 6,
+        "id": "969cb74d-67ce-4c09-9e8b-dc12ab9eaef2",
+        "user_id": 21,
+        "adjusted_score": null,
+        "updated_at": "2020-05-22T00:20:34.593948+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 1,
+        "id": "192f185f-5857-4459-b8a5-489c6e7ad575",
+        "user_id": 20,
+        "adjusted_score": null,
+        "updated_at": "2020-05-28T19:00:22.801359+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 1,
+        "id": "cee6122e-859f-45c8-a2e0-9e076476c0cb",
+        "user_id": 22,
+        "adjusted_score": null,
+        "updated_at": "2020-05-28T23:13:58.465294+00:00",
+        "pre_score": 2
+      },
+      {
+        "post_score": 8,
+        "id": "44fb6793-730c-4f0a-9c93-2b9293750d3f",
+        "user_id": 23,
+        "adjusted_score": null,
+        "updated_at": "2020-05-29T13:00:38.248471+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 2,
+        "id": "132d12f1-03af-4114-be8a-da117b65a460",
+        "user_id": 58,
+        "adjusted_score": null,
+        "updated_at": "2020-08-28T21:47:24.952382+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 7,
+        "id": "f8fda6c2-4bd2-4238-beba-685b8edd3428",
+        "user_id": 59,
+        "adjusted_score": null,
+        "updated_at": "2020-08-30T17:39:40.988991+00:00",
+        "pre_score": null
+      },
+      {
+        "post_score": null,
+        "id": "ea463680-390d-4039-a573-2ceb50b00aa4",
+        "user_id": 70,
+        "adjusted_score": null,
+        "updated_at": "2020-10-16T19:10:34.04706+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "04da8a3e-821d-4b37-b901-064733ccf47b",
+        "user_id": 60,
+        "adjusted_score": null,
+        "updated_at": "2020-08-30T21:26:25.351021+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 0,
+        "id": "7198556e-4a85-4b3c-ab18-f84db63508ac",
+        "user_id": 61,
+        "adjusted_score": null,
+        "updated_at": "2020-09-14T18:42:30.162928+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": null,
+        "id": "d869838a-42ea-40fe-b31e-fe6ee8aaffc9",
+        "user_id": 31,
+        "adjusted_score": null,
+        "updated_at": "2020-07-23T16:40:42.856966+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": null,
+        "id": "03aa83dc-0e30-4ad0-be1b-30a57e7e2b87",
+        "user_id": 24,
+        "adjusted_score": null,
+        "updated_at": "2020-07-23T18:39:59.883939+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 0,
+        "id": "eda1c32f-9680-4aa2-b0bf-09172b28e78b",
+        "user_id": 3,
+        "adjusted_score": null,
+        "updated_at": "2020-07-23T19:31:54.465905+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 1,
+        "id": "ac2ea93c-f23f-4897-9aa7-7d3f7b271695",
+        "user_id": 8,
+        "adjusted_score": 1,
+        "updated_at": "2020-09-28T20:36:49.31375+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 1,
+        "id": "29e25fa9-0f68-4ed1-81fc-dfd7430d8c80",
+        "user_id": 73,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-22T22:42:26.691612+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 7,
+        "id": "5b23cdeb-cc3d-476e-9c35-e8619cb01d47",
+        "user_id": 32,
+        "adjusted_score": null,
+        "updated_at": "2020-07-23T21:18:55.926485+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 8,
+        "id": "074d07ee-16b9-4fb7-8d62-7ca3e7c23ea7",
+        "user_id": 33,
+        "adjusted_score": null,
+        "updated_at": "2020-07-25T18:29:56.504615+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 4,
+        "id": "a3541e54-b9fe-4c7d-a0d5-23c5910f1825",
+        "user_id": 71,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-24T14:22:07.828051+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 7,
+        "id": "3147ce6b-944a-49a1-95f6-42fb4b458a53",
+        "user_id": 34,
+        "adjusted_score": null,
+        "updated_at": "2020-07-30T17:33:55.673607+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 0,
+        "id": "58abf23f-dad0-4ec7-b469-9cbbd52b9353",
+        "user_id": 27,
+        "adjusted_score": null,
+        "updated_at": "2020-10-08T16:59:43.686692+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 7,
+        "id": "aafc0daa-24c7-4365-b376-d8a1ad374f2f",
+        "user_id": 36,
+        "adjusted_score": null,
+        "updated_at": "2020-08-03T20:42:56.545482+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 4,
+        "id": "4fdca3dd-68a7-4dcd-a501-06018ec1c231",
+        "user_id": 65,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-10T16:02:34.799409+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 3,
+        "id": "3a1394f4-caa7-4edf-b5af-0d4991be35cd",
+        "user_id": 38,
+        "adjusted_score": null,
+        "updated_at": "2020-08-05T00:30:44.865166+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 1,
+        "id": "c486a606-37d5-4e4a-a7f9-6a6f01b1ccfb",
+        "user_id": 9,
+        "adjusted_score": 9,
+        "updated_at": "2020-09-28T21:25:46.75177+00:00",
+        "pre_score": 2
+      },
+      {
+        "post_score": 3,
+        "id": "e69c2d59-b4dd-4379-b000-7c4ee27c1e24",
+        "user_id": 67,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-10T17:47:34.107436+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 1,
+        "id": "46ff8ef0-252b-4199-ac17-8fdb3e26d092",
+        "user_id": 11,
+        "adjusted_score": null,
+        "updated_at": "2020-08-07T05:16:30.716444+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "72825572-0232-47d4-8096-fd0733fe9ec9",
+        "user_id": 28,
+        "adjusted_score": null,
+        "updated_at": "2020-08-07T21:50:30.1667+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": null,
+        "id": "7bba8a17-d330-4b07-94e5-62a21244a1da",
+        "user_id": 39,
+        "adjusted_score": null,
+        "updated_at": "2020-08-07T21:53:44.923234+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 0,
+        "id": "607dc019-bd25-4afb-b041-994b89fa2469",
+        "user_id": 66,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-10T17:51:51.740854+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 1,
+        "id": "416a99e5-2fa8-4a85-8fc8-7595274304f0",
+        "user_id": 5,
+        "adjusted_score": null,
+        "updated_at": "2020-10-12T21:50:13.357136+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 0,
+        "id": "4c8d9328-131f-4e4a-8674-e925740aafbf",
+        "user_id": 30,
+        "adjusted_score": null,
+        "updated_at": "2020-08-09T06:22:06.559476+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 3,
+        "id": "fea266bf-a49c-4a26-96d3-f847e074a264",
+        "user_id": 40,
+        "adjusted_score": null,
+        "updated_at": "2020-08-10T22:36:16.703336+00:00",
+        "pre_score": 2
+      },
+      {
+        "post_score": 7,
+        "id": "65111650-ae21-45df-af34-58204885c836",
+        "user_id": 42,
+        "adjusted_score": null,
+        "updated_at": "2020-08-11T06:58:17.557806+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": null,
+        "id": "82a24ccd-2fbb-4cb2-b918-243549c70d50",
+        "user_id": 41,
+        "adjusted_score": null,
+        "updated_at": "2020-08-11T20:22:29.351937+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 1,
+        "id": "a2307c1a-973c-44a5-a29e-85be859aed62",
+        "user_id": 68,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-12T23:38:11.453429+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "a7b82209-38f6-4558-91cc-c2992ee8f6ec",
+        "user_id": 63,
+        "adjusted_score": 2,
+        "updated_at": "2020-09-29T17:08:06.295321+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 8,
+        "id": "5692122c-5d4a-4fc4-acc6-c0b209d40d42",
+        "user_id": 43,
+        "adjusted_score": null,
+        "updated_at": "2020-08-12T00:32:12.297911+00:00",
+        "pre_score": 5
+      },
+      {
+        "post_score": 4,
+        "id": "5479060b-b6a2-4a2d-9117-6fdd6eefca37",
+        "user_id": 44,
+        "adjusted_score": null,
+        "updated_at": "2020-08-13T23:27:19.620108+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 4,
+        "id": "326316f8-cb75-4306-87b5-bc64a36fc8c5",
+        "user_id": 45,
+        "adjusted_score": null,
+        "updated_at": "2020-08-14T22:17:59.976782+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 1,
+        "id": "44bb710e-5ac5-4eb5-8307-73ea724e8b2b",
+        "user_id": 46,
+        "adjusted_score": null,
+        "updated_at": "2020-08-14T23:01:07.702293+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 7,
+        "id": "35a397a5-6730-49e5-bea4-e759478f9df1",
+        "user_id": 47,
+        "adjusted_score": null,
+        "updated_at": "2020-08-17T18:35:16.465621+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 7,
+        "id": "b24d5819-9115-4154-b984-ece00510c7d6",
+        "user_id": 48,
+        "adjusted_score": null,
+        "updated_at": "2020-08-18T17:26:57.558602+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": null,
+        "id": "bd019518-051e-4d63-83f7-bb02b3e45d70",
+        "user_id": 51,
+        "adjusted_score": null,
+        "updated_at": "2020-08-20T07:32:02.817259+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 8,
+        "id": "859ffc15-0693-46a5-886f-dfc532886de7",
+        "user_id": 52,
+        "adjusted_score": null,
+        "updated_at": "2020-08-20T17:51:05.879487+00:00",
+        "pre_score": 7
+      },
+      {
+        "post_score": 2,
+        "id": "f532cfd3-3254-449e-bc9a-92d940d4e33e",
+        "user_id": 53,
+        "adjusted_score": null,
+        "updated_at": "2020-08-20T22:49:28.305368+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 8,
+        "id": "90bae055-3f5d-4cec-8e3f-701540895faa",
+        "user_id": 54,
+        "adjusted_score": null,
+        "updated_at": "2020-08-21T17:52:27.141766+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 7,
+        "id": "325eaec3-d5c9-4404-a1bf-c870e3914d4b",
+        "user_id": 55,
+        "adjusted_score": null,
+        "updated_at": "2020-08-22T01:36:14.536111+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 7,
+        "id": "400d8c9c-e0ee-4304-9faf-3ae3f2d16b5e",
+        "user_id": 85,
+        "adjusted_score": 3,
+        "updated_at": "2020-10-28T17:36:03.463504+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 7,
+        "id": "603b58db-353d-428e-8164-42523e805f89",
+        "user_id": 4,
+        "adjusted_score": 3,
+        "updated_at": "2020-09-29T17:15:17.408602+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": null,
+        "id": "6a721c44-1da5-4a27-93cd-cd1775bbd724",
+        "user_id": 26,
+        "adjusted_score": 4,
+        "updated_at": "2020-09-30T17:24:25.894975+00:00",
+        "pre_score": null
+      },
+      {
+        "post_score": 3,
+        "id": "108b1e78-cb79-4473-aefb-52ae9cc98ac1",
+        "user_id": 64,
+        "adjusted_score": 3,
+        "updated_at": "2020-09-30T18:01:54.251155+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 2,
+        "id": "69c4fbe8-f84a-4581-bf8e-3e63e11480d8",
+        "user_id": 78,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-27T16:39:49.130454+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 2,
+        "id": "2e73a2a0-43aa-4627-9d60-c25cb7d4fc4f",
+        "user_id": 74,
+        "adjusted_score": 2,
+        "updated_at": "2020-10-26T20:40:22.010977+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 0,
+        "id": "621f2058-0049-4874-b8de-83917218bb86",
+        "user_id": 69,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-13T00:19:53.408547+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 7,
+        "id": "eba8347b-1302-4e17-a9ee-aae688cbde54",
+        "user_id": 6,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-16T19:01:18.18186+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 2,
+        "id": "71ec0e72-49ef-4d60-a567-499227f02ad1",
+        "user_id": 25,
+        "adjusted_score": 2,
+        "updated_at": "2020-10-27T16:42:56.080753+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 1,
+        "id": "fecaba40-54f4-47d4-a802-3fb7451db258",
+        "user_id": 75,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-26T21:20:43.510839+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 8,
+        "id": "2d247a8b-45be-40a1-838c-f590910ccda8",
+        "user_id": 76,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-27T23:02:55.121369+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 0,
+        "id": "19c7c4ac-a1fc-44c7-8a5d-cf10d5375bd5",
+        "user_id": 87,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-28T16:33:10.081098+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 2,
+        "id": "e8e51631-97a1-4b3e-aea1-9f50f531081e",
+        "user_id": 86,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-28T18:14:32.548261+00:00",
+        "pre_score": 2
+      },
+      {
+        "post_score": 6,
+        "id": "ed90965a-e366-4649-9ffe-9420883a39ff",
+        "user_id": 79,
+        "adjusted_score": 3,
+        "updated_at": "2020-10-29T00:52:35.966906+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 1,
+        "id": "fbaa7918-7ef9-4b22-98f5-db15c98e9868",
+        "user_id": 83,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-29T01:50:34.892718+00:00",
+        "pre_score": 2
+      },
+      {
+        "post_score": 6,
+        "id": "bfe76d15-167a-4dc5-97d7-218113a736d8",
+        "user_id": 80,
+        "adjusted_score": 5,
+        "updated_at": "2020-10-29T01:52:21.25319+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 6,
+        "id": "4390e20c-b903-4f65-9f0e-99f3e721232b",
+        "user_id": 84,
+        "adjusted_score": 4,
+        "updated_at": "2020-10-29T06:36:20.757074+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 4,
+        "id": "16077d5c-bc6a-4125-beff-533e22e6698e",
+        "user_id": 81,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-29T23:28:53.878631+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 7,
+        "id": "5a0dc4a2-2bb5-44b1-aa08-fcee74eb818d",
+        "user_id": 88,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-29T23:42:50.53299+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": null,
+        "id": "cb54b39e-36dd-47d9-869c-58f7421f1578",
+        "user_id": 93,
+        "adjusted_score": null,
+        "updated_at": "2020-10-30T09:56:46.673836+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 2,
+        "id": "906d5e92-d95b-4aa4-b0b8-8b70ca6124af",
+        "user_id": 89,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-30T19:45:57.335569+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 3,
+        "id": "1b02e611-63a3-42ab-8ef2-3d35f4c78513",
+        "user_id": 94,
+        "adjusted_score": 3,
+        "updated_at": "2020-10-30T16:57:29.231034+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "67c577be-0c0d-4464-89bf-e6dcd5baec4e",
+        "user_id": 90,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-30T17:31:48.502541+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 6,
+        "id": "3ed4f87c-a196-4e83-b1f0-1ee687f667fe",
+        "user_id": 92,
+        "adjusted_score": 2,
+        "updated_at": "2020-10-30T18:01:42.383906+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 3,
+        "id": "6224c024-c61f-4321-bd88-d693989d1218",
+        "user_id": 98,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-31T17:55:04.832978+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 6,
+        "id": "93e02737-c70c-44ab-8668-321a107a1777",
+        "user_id": 99,
+        "adjusted_score": 3,
+        "updated_at": "2020-10-31T18:49:08.081241+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 7,
+        "id": "de205837-f22e-4d4c-9326-d10a025cbeec",
+        "user_id": 101,
+        "adjusted_score": 0,
+        "updated_at": "2020-10-31T19:25:04.349356+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 4,
+        "id": "af828619-f990-4e3a-8ecd-7029e5983964",
+        "user_id": 95,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-31T20:29:08.367177+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 1,
+        "id": "a9518119-78c2-4410-ba24-d9ff99426888",
+        "user_id": 106,
+        "adjusted_score": 1,
+        "updated_at": "2020-10-31T22:28:37.828225+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 2,
+        "id": "c576ce0d-1ac5-4bb8-9a02-1f8f8799a25a",
+        "user_id": 107,
+        "adjusted_score": 2,
+        "updated_at": "2020-10-31T23:06:09.470021+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 2,
+        "id": "b8b7f99d-810f-479e-885b-f152d8742b20",
+        "user_id": 108,
+        "adjusted_score": 2,
+        "updated_at": "2020-10-31T23:17:29.692837+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 4,
+        "id": "71c76541-3ea9-4218-b03a-a5c179eccf4b",
+        "user_id": 109,
+        "adjusted_score": 4,
+        "updated_at": "2020-10-31T23:28:07.735764+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 7,
+        "id": "bdf051b7-7203-4832-9c47-0aba56931920",
+        "user_id": 103,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-01T18:42:33.290811+00:00",
+        "pre_score": 7
+      },
+      {
+        "post_score": 1,
+        "id": "671b1413-0eb5-44ee-8ca0-213bdc34520e",
+        "user_id": 97,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-01T21:27:43.4492+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": null,
+        "id": "1763b06b-8f1a-48e6-b1d7-ca73cce396d0",
+        "user_id": 110,
+        "adjusted_score": null,
+        "updated_at": "2020-11-02T23:42:34.803037+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 5,
+        "id": "54cad9dd-8187-4e8a-a72b-fe3add7aae98",
+        "user_id": 111,
+        "adjusted_score": 2,
+        "updated_at": "2020-11-03T19:00:45.615253+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 5,
+        "id": "bcff541f-ef3a-4e41-9a13-4fe9d17cde69",
+        "user_id": 112,
+        "adjusted_score": 2,
+        "updated_at": "2020-11-03T19:12:07.12328+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 6,
+        "id": "cea17c75-97e4-4858-bd74-4cafa1973918",
+        "user_id": 145,
+        "adjusted_score": 6,
+        "updated_at": "2020-11-04T00:11:57.033897+00:00",
+        "pre_score": 0
+      },
+      {
+        "post_score": 8,
+        "id": "241137f1-c921-46a5-b76b-8d39e3c4c229",
+        "user_id": 146,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-04T00:51:39.246943+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 8,
+        "id": "13354434-e5ce-4ac0-b9d3-10d8f9e9ae2f",
+        "user_id": 144,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-04T03:15:24.432405+00:00",
+        "pre_score": 8
+      },
+      {
+        "post_score": 4,
+        "id": "bf1a52c6-5dec-408d-bf20-d4052215df92",
+        "user_id": 147,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-04T04:30:00.271292+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 7,
+        "id": "bd084660-195d-4a83-a30a-5aa43bb05641",
+        "user_id": 105,
+        "adjusted_score": 1,
+        "updated_at": "2020-11-04T18:34:00.571278+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 5,
+        "id": "a873d7d4-fd2f-4b6c-bd3c-20108f78567c",
+        "user_id": 151,
+        "adjusted_score": 2,
+        "updated_at": "2020-11-04T19:37:58.178838+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 8,
+        "id": "8d9a10dc-30c6-4baf-a2cd-579a2d4c16f5",
+        "user_id": 148,
+        "adjusted_score": 5,
+        "updated_at": "2020-11-04T21:38:49.547489+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 6,
+        "id": "f124e5dd-2f5b-4ced-a3d9-3f62e60c77fa",
+        "user_id": 153,
+        "adjusted_score": 4,
+        "updated_at": "2020-11-05T01:30:28.651855+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 8,
+        "id": "0a7a8e2e-496f-4e69-9216-c54a85121084",
+        "user_id": 152,
+        "adjusted_score": 1,
+        "updated_at": "2020-11-05T01:35:22.162095+00:00",
+        "pre_score": 7
+      },
+      {
+        "post_score": 5,
+        "id": "bcf0e14f-db63-4145-88c3-ff23fbcb899f",
+        "user_id": 149,
+        "adjusted_score": 1,
+        "updated_at": "2020-11-05T19:13:01.855033+00:00",
+        "pre_score": 4
+      },
+      {
+        "post_score": 5,
+        "id": "c114ac91-a47c-4e58-9fca-be815c55c3a9",
+        "user_id": 150,
+        "adjusted_score": 1,
+        "updated_at": "2020-11-05T19:25:30.230648+00:00",
+        "pre_score": 5
+      },
+      {
+        "post_score": 0,
+        "id": "1cde56f8-ba10-45ad-95cd-c55940e09f46",
+        "user_id": 102,
+        "adjusted_score": 0,
+        "updated_at": "2020-11-05T23:42:51.772223+00:00",
+        "pre_score": 1
+      },
+      {
+        "post_score": 7,
+        "id": "7095ccc1-0c7e-4171-8333-04e81216450f",
+        "user_id": 156,
+        "adjusted_score": 4,
+        "updated_at": "2020-11-05T23:57:00.51357+00:00",
+        "pre_score": 3
+      },
+      {
+        "post_score": 7,
+        "id": "d1574b0d-fac5-4f3c-a3c7-729575e8dc05",
+        "user_id": 157,
+        "adjusted_score": 2,
+        "updated_at": "2020-11-06T00:01:01.284848+00:00",
+        "pre_score": 6
+      },
+      {
+        "post_score": 6,
+        "id": "8bd78f8d-bad9-40c4-854e-950b8ad5ca45",
+        "user_id": 158,
+        "adjusted_score": 1,
+        "updated_at": "2020-11-06T00:23:02.94881+00:00",
+        "pre_score": 5
+      },
+      {
+        "post_score": 7,
+        "id": "538d5122-b5bc-44ff-a7bb-b026e7795c13",
+        "user_id": 155,
+        "adjusted_score": 4,
+        "updated_at": "2020-11-06T02:20:57.024026+00:00",
+        "pre_score": 3
+      }
+    ]
+  }
+}

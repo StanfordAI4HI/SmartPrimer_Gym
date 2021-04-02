@@ -1,0 +1,1735 @@
+,user_id,input_message_kid,stage,total_attempts_in_stage,grade_norm,pre-score_norm,stage_norm,failed_attempts_norm,pos_norm,neg_norm,hel_norm,anxiety_norm,action,output,postive_feedback,reward,grade,completed,pre,post,adjusted_score,anxiety,time_stored
+61,92,do you think that the side can hold 3 chocolates,,,-1.,0.,-1.,-0.9,-1.,-1.,1.,-0.5,1,:),True,2.1,2,True,4,6,2,18,"10-30-2020-09:55:25-PDT
+"
+70,99,I think its 11 what about you?,0,6,-1.,-0.25,-1.,-0.4,-1.,-1.,1.,0.11111111,1,:),True,0.1,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+71,99,I need some help.,0,6,-1.,-0.25,-1.,-0.4,0.148,-1.,1.,0.11111111,3,Hm... let's keep thinking!,True,0.1,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+72,99,I don',0,6,-1.,-0.25,-1.,-0.4,-1.,-1.,-1.,0.11111111,1,:),True,0.1,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+73,99,yay! I am doing it!,2,1,-1.,-0.25,-0.33333333,-0.9,0.14,-1.,-1.,0.11111111,1,:),True,0.1,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+74,99,hmmmmmmmmhow do i do it?,3,2,-1.,-0.25,0.,-0.8,-1.,-1.,1.,0.11111111,1,:),True,0.1,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+75,99,its 30x3 right?,3,2,-1.,-0.25,0.,-0.8,-1.,-1.,-1.,0.11111111,1,:),None,0.0,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+76,99,now it is 90x2,,,-1.,-0.25,0.33333333,-0.9,-1.,-1.,-1.,0.11111111,2,"You’ve just about got it. Don’t give up, yet!",None,3.0,2,True,3,6,3,29,"10-30-2020-09:55:25-PDT
+"
+170,97,What is the answer,0,3,1.,-0.75,-1.,-0.7,-1.,-1.,1.,-0.22222222,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+171,97,Can you help?,0,3,1.,-0.75,-1.,-0.7,0.148,-1.,1.,-0.22222222,3,Hm... let's keep thinking!,True,0.1,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+172,97,Tell me the answer,0,3,1.,-0.75,-1.,-0.7,-1.,-1.,-1.,-0.22222222,3,Hm... let's keep thinking!,None,0.0,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+173,97,Now,0,3,1.,-0.75,-1.,-0.7,-1.,-1.,-1.,-0.22222222,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+174,97,l,0,3,1.,-0.75,-1.,-0.7,-1.,-1.,-1.,-0.22222222,2,This problem doesn’t stand a chance against us!,None,0.0,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+175,97,l,,,1.,-0.75,-1.,-0.7,-1.,-1.,-1.,-0.22222222,3,Hm... let's keep thinking!,None,-8,4,False,1,1,0,23,"10-31-2020-16:37:08-PDT
+"
+176,111,evil,0,1,0.,0.,-1.,-0.9,-1.,1.,-1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,4,5,2,20,"11-01-2020-13:40:53-PST
+"
+177,111,yes,3,1,0.,0.,0.,-0.9,1.,-1.,-1.,-0.38888889,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,4,5,2,20,"11-01-2020-13:40:53-PST
+"
+178,111,ok,,,0.,0.,0.,-0.9,1.,-1.,-1.,-0.38888889,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,1.988,3,True,4,5,2,20,"11-01-2020-13:40:53-PST
+"
+179,145,6x3x5,3,38,0.,-1.,0.,2.8,-1.,-1.,-1.,-0.16666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,0,6,6,24,"11-01-2020-13:40:53-PST
+"
+180,145,i dont know what volume is,3,38,0.,-1.,0.,2.8,-1.,-1.,1.,-0.16666667,2,You’re doing a great job so far. Just keep trying!,None,0.0,3,True,0,6,6,24,"11-01-2020-13:40:53-PST
+"
+181,145,idk,3,38,0.,-1.,0.,2.8,-1.,1.,-1.,-0.16666667,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,3,True,0,6,6,24,"11-01-2020-13:40:53-PST
+"
+182,145,idk,,,0.,-1.,0.,2.8,-1.,1.,-1.,-0.16666667,3,I think we can use an equation! Think about what equation you can use to solve this problem.,None,5.9750000000000005,3,True,0,6,6,24,"11-01-2020-13:40:53-PST
+"
+183,146,What's the answer,,,0.,1.,0.,-0.9,-1.,-1.,1.,-0.77777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-0.0020000000000000018,3,True,8,8,0,13,"11-01-2020-13:40:53-PST
+"
+184,144,a little hard,1,1,-1.,1.,-0.66666667,-0.9,-1.,0.05,1.,-0.05555556,2,You’re doing a great job so far. Just keep trying!,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+185,144,is it 5 or 4...,1,1,-1.,1.,-0.66666667,-0.9,-1.,-1.,-1.,-0.05555556,1,:),None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+186,144,um... not really helpful but... at least you let my know that it's 5 or 4. :|,1,1,-1.,1.,-0.66666667,-0.9,-1.,-0.56,1.,-0.05555556,3,Hm... let's keep thinking!,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+187,144,Great idea! But... uhhhh... hmmmm... nothing yet🤷🏻‍♂️,1,1,-1.,1.,-0.66666667,-0.9,-0.154,-1.,-1.,-0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+188,144,ok :),1,1,-1.,1.,-0.66666667,-0.9,1.,-1.,-1.,-0.05555556,3,Hm... let's keep thinking!,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+189,144,"I said, I knew that, \(ºcº)/!",2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+190,144,ok I got 6,2,1,-1.,1.,-0.33333333,-0.9,0.376,-1.,-1.,-0.05555556,3,Hm... let's keep thinking!,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+191,144,I know that...   thats why I got the correct answer anyways. hmmmm...,1,1,-1.,1.,-0.66666667,-0.9,-1.,-1.,1.,-0.05555556,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+192,144,5?,1,1,-1.,1.,-0.66666667,-0.9,-1.,-1.,-1.,-0.05555556,0,"By sliding the chocolate along the width of the box and using the chocolate as a reference, you will find that the width fits 5 chocolates.",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+193,144,"Now the length, hmmmm...",2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+194,144,I got six,2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+195,144,got it!,2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,1,:),None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+196,144,🤷🏻‍♂️,2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+197,144,ok got it! thanks!,3,1,-1.,1.,0.,-0.9,0.48,-1.,-1.,-0.05555556,3,Try thinking about the concept of volume to solve this problem.,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+198,144,"ok, 6 x 5 x 3 = ... hmmmm... oh I know! 90!",3,1,-1.,1.,0.,-0.9,-0.284,-1.,1.,-0.05555556,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+199,144,yup,4,1,-1.,1.,0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+200,144,90 x 2 = 180!                               ,4,1,-1.,1.,0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+201,144,,3,1,-1.,1.,0.,-0.9,-1.,-1.,-1.,-0.05555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+202,144,"hmmm wait for me, I have to go to the bathroom!",4,1,-1.,1.,0.33333333,-0.9,-1.,-1.,-1.,-0.05555556,0,Weight of the box of chocolates,None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+203,144," one thing, I forgot how many ounces I weigh and I don't know how much you weigh in the first place",5,1,-1.,1.,0.66666667,-0.9,-1.,-1.,1.,-0.05555556,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+204,144,"ummm...  I'm pretty sure that the BOX can go across, but someone has to paddle it across...",5,1,-1.,1.,0.66666667,-0.9,-0.6,-1.,-1.,-0.05555556,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,0.01,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+205,144,smaller,,,-1.,1.,0.66666667,-0.9,-1.,-1.,-1.,-0.05555556,0,"Because 180 is smaller than 200, you should be safe to board the boat with the chocolates.",None,-0.14500000000000002,2,True,8,8,0,26,"11-01-2020-13:40:53-PST
+"
+230,148,Can I have pointers?,3,3,1.,-0.25,0.,-0.7,-1.,-1.,1.,0.05555556,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,4,True,3,8,5,28,"11-01-2020-13:40:53-PST
+"
+231,148,what is 90 divided by 2?,4,1,1.,-0.25,0.33333333,-0.9,-1.,-1.,1.,0.05555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,4,True,3,8,5,28,"11-01-2020-13:40:53-PST
+"
+232,148,What is the length of the box,,,1.,-0.25,-0.33333333,-0.1,-1.,-1.,1.,0.05555556,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,None,4.988,4,True,3,8,5,28,"11-01-2020-13:40:53-PST
+"
+233,153,ok,,,0.,-0.25,0.,-0.8,1.,-1.,-1.,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,3.998,3,True,3,6,4,19,"11-01-2020-13:40:53-PST
+"
+235,161,What is the answer?,3,14,-1.,-0.75,0.,0.4,-1.,-1.,1.,-0.66666667,1,:),True,0.1,2,False,1,0,0,15,"11-07-2020-11:18:45-PST
+"
+236,161,Is it 10?,,,-1.,-0.75,0.,0.4,-1.,-1.,-1.,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-8,2,False,1,0,0,15,"11-07-2020-11:18:45-PST
+"
+237,162,"Thankyou Betty,",1,4,0.,0.75,-0.66666667,-0.6,-1.,-1.,-1.,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,7,6,0,12,"11-07-2020-12:09:03-PST
+"
+238,162,i am doing math now,3,1,0.,0.75,0.,-0.9,-1.,-1.,-1.,-0.83333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,7,6,0,12,"11-07-2020-12:09:03-PST
+"
+239,162,thanks,3,1,0.,0.75,0.,-0.9,1.,-1.,-1.,-0.83333333,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,3,True,7,6,0,12,"11-07-2020-12:09:03-PST
+"
+240,162,Betty I need help,,,0.,0.75,0.33333333,-0.9,0.148,-1.,1.,-0.83333333,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.072,3,True,7,6,0,12,"11-07-2020-12:09:03-PST
+"
+241,159,im stuck,1,66,-1.,-0.25,-0.66666667,5.6,-1.,0.334,1.,-0.94444444,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+242,159,wats the anser,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,3,Hm... let's keep thinking!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+243,159,wats the anser,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+244,159,wats the anser!!!!,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,"The sooner we finish, the sooner we can cross the river on that boat! Let’s get to it!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+245,159,wats the anser!!!!!!!!,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+246,159,o        k,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+247,159,ya,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,You’re almost there. Just keep trying!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+248,159,ok,1,66,-1.,-0.25,-0.66666667,5.6,1.,-1.,-1.,-0.94444444,2,"The sooner we finish, the sooner we can cross the river on that boat! Let’s get to it!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+249,159,i need a hint,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,2,You’re doing a great job so far. Just keep trying!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+250,159,i need a hint,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+251,159,i need a hint,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+252,159,i need help,1,66,-1.,-0.25,-0.66666667,5.6,0.46,-1.,1.,-0.94444444,2,I’m so glad you’re here to help. I know you can solve this problem!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+253,159,spoil it,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,"You’ve just about got it. Don’t give up, yet!",None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+254,159,do it,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,1,:),None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+255,159,i cant do it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+256,159,dont do it one more time,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,3,Hm... let's keep thinking!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+257,159,ok!,1,66,-1.,-0.25,-0.66666667,5.6,1.,-1.,-1.,-0.94444444,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+258,159,no i cant,1,66,-1.,-0.25,-0.66666667,5.6,-1.,0.376,-1.,-0.94444444,1,:),None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+259,159,hihghujkjhgfgghjkhvgfghjnmbgfrtghnbgftgh,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,2,You’re super close! Let’s think about this a little more and try again.,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+260,159,tell me the anser,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,1,:),None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+261,159,are you goinn to help me,1,66,-1.,-0.25,-0.66666667,5.6,-0.298,-1.,1.,-0.94444444,2,You’re almost there. Just keep trying!,None,0.0,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+262,159,i dont now the anser,1,66,-1.,-0.25,-0.66666667,5.6,-1.,-1.,1.,-0.94444444,1,:),True,0.1,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+263,159,i give up,,,-1.,-0.25,-0.66666667,5.6,-1.,-1.,-1.,-0.94444444,1,:),None,-8,2,False,3,3,1,10,"11-07-2020-12:13:39-PST
+"
+264,179,i need a hint,0,8,1.,0.25,-1.,-0.2,-1.,-1.,1.,-0.33333333,2,"If we put our minds together, we can figure this problem out!",True,0.1,4,True,5,5,2,21,"11-07-2020-14:01:07-PST
+"
+265,179,help,0,8,1.,0.25,-1.,-0.2,1.,-1.,1.,-0.33333333,2,The people in the village need you! Keep working hard.,True,0.1,4,True,5,5,2,21,"11-07-2020-14:01:07-PST
+"
+266,179,help,0,8,1.,0.25,-1.,-0.2,1.,-1.,1.,-0.33333333,1,:),None,0.0,4,True,5,5,2,21,"11-07-2020-14:01:07-PST
+"
+267,179,help,0,8,1.,0.25,-1.,-0.2,1.,-1.,1.,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,5,5,2,21,"11-07-2020-14:01:07-PST
+"
+268,179,help,,,1.,0.25,-1.,-0.2,1.,-1.,1.,-0.33333333,2,I love a good challenge. Let’s regroup and think about this some more.,None,1.988,4,True,5,5,2,21,"11-07-2020-14:35:13-PST
+"
+269,168,I need help,,,1.,-0.5,0.,-0.6,0.46,-1.,1.,-0.55555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,5.098,4,True,2,7,5,17,"11-07-2020-15:00:06-PST
+"
+270,163,grrrrr,4,1,-1.,-0.25,0.33333333,-0.9,-1.,-1.,-1.,-0.94444444,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,3,4,1,10,"11-08-2020-11:07:58-PST
+"
+271,163,HELP!,3,9,-1.,-0.25,0.,-0.1,1.,-1.,1.,-0.94444444,2,You’re super close! Let’s think about this a little more and try again.,None,0.0,2,True,3,4,1,10,"11-08-2020-11:07:58-PST
+"
+272,163,You are not helpful.,,,-1.,-0.25,0.,-0.1,-1.,-0.126,-1.,-0.94444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.9849999999999999,2,True,3,4,1,10,"11-08-2020-11:50:11-PST
+"
+273,181,Need help,0,3,0.,0.75,-1.,-0.7,0.46,-1.,1.,-0.94444444,1,:),True,0.1,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+274,181,I need help,0,3,0.,0.75,-1.,-0.7,0.46,-1.,1.,-0.94444444,2,You’re doing a great job so far. Just keep trying!,None,0.0,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+275,181,Help,2,10,0.,0.75,-0.33333333,0.,1.,-1.,1.,-0.94444444,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+276,181,I don't get it,2,10,0.,0.75,-0.33333333,0.,-1.,-1.,1.,-0.94444444,1,:),None,0.0,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+277,181,HELP,2,10,0.,0.75,-0.33333333,0.,1.,-1.,1.,-0.94444444,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",None,0.0,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+278,181,How to measure length,,,0.,0.75,-0.33333333,0.,-1.,-1.,1.,-0.94444444,1,:),None,0.9879999999999999,3,True,7,8,1,10,"11-08-2020-12:19:17-PST
+"
+279,171,What is the length?,2,7,0.,-1.,-0.33333333,-0.3,-1.,-1.,1.,-0.38888889,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,3,True,0,5,5,20,"11-08-2020-13:24:03-PST
+"
+280,171,Can I have a hint?,,,0.,-1.,0.,-0.8,-1.,-1.,1.,-0.38888889,2,We need to solve this problem to stop the natural disaster. I believe in you!,True,5.101,3,True,0,5,5,20,"11-08-2020-13:24:03-PST
+"
+281,196,Hey Buster,2,2,1.,1.,-0.33333333,-0.8,-1.,-1.,-1.,0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,8,8,0,28,"11-08-2020-14:11:43-PST
+"
+282,196,I need help on finding the length,,,1.,1.,-0.33333333,-0.8,-0.298,-1.,1.,0.05555556,3,Hm... let's keep thinking!,None,-0.012,4,True,8,8,0,28,"11-08-2020-14:11:43-PST
+"
+287,174,we do 90x2,,,1.,1.,0.33333333,-0.9,-1.,-1.,1.,-0.88888889,1,:),None,0.001,4,True,8,7,0,11,"11-08-2020-14:41:23-PST
+"
+288,177,okay never mind,4,1,-1.,0.,0.33333333,-0.9,-0.026,-1.,-1.,-0.05555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,4,2,0,26,"11-08-2020-16:31:37-PST
+"
+289,177,okay thanks,4,1,-1.,0.,0.33333333,-0.9,1.,-1.,-1.,-0.05555556,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.01,2,True,4,2,0,26,"11-08-2020-16:31:37-PST
+"
+290,177,uh do you know what 3*5*6=?,,,-1.,0.,0.,-0.8,-1.,-1.,1.,-0.05555556,1,:),True,0.07500000000000001,2,True,4,2,0,26,"11-08-2020-17:52:18-PST
+"
+336,198,Im stuck could you please help me Yeti?,3,6,1.,-0.5,0.,-0.4,-0.166,-0.666,1.,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,True,0.1,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+337,198,I need help,3,6,1.,-0.5,0.,-0.4,0.46,-1.,1.,-0.66666667,2,The people in the village need you! Keep working hard.,True,0.1,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+338,198,Im sorry I need help,3,6,1.,-0.5,0.,-0.4,-0.1,-0.566,1.,-0.66666667,2,This problem doesn’t stand a chance against us!,None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+339,198,(I didn't mean the 2nd helpful part) But please I need help,3,6,1.,-0.5,0.,-0.4,-0.012,-1.,1.,-0.66666667,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+340,198,I need help,3,6,1.,-0.5,0.,-0.4,0.46,-1.,1.,-0.66666667,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+341,198, Im stuck please help me,3,6,1.,-0.5,0.,-0.4,0.112,-0.556,1.,-0.66666667,2,This problem doesn’t stand a chance against us!,None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+342,198,I don't know,3,6,1.,-0.5,0.,-0.4,-1.,-1.,1.,-0.66666667,2,"You’ve just about got it. Don’t give up, yet!",None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+343,198,Can I have some help?,3,6,1.,-0.5,0.,-0.4,-0.052,-1.,1.,-0.66666667,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+344,198,Im stuck ,3,6,1.,-0.5,0.,-0.4,-1.,0.334,1.,-0.66666667,1,:),None,0.0,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+345,198,Im stuck could you please help me Yeti?,,,1.,-0.5,0.,-0.4,-0.166,-0.666,1.,-0.66666667,1,:),None,-8,4,False,2,0,0,15,"11-09-2020-16:31:43-PST
+"
+346,188,Great!,0,4,1.,-0.25,-1.,-0.6,1.,-1.,-0.13746133,0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,3,3,0,34,"11-09-2020-16:37:40-PST
+"
+347,188,this is hard,2,5,1.,-0.25,-0.33333333,-0.5,-1.,-0.176,1.,0.38888889,2,"You’ve just about got it. Don’t give up, yet!",True,0.1,4,True,3,3,0,34,"11-09-2020-16:37:40-PST
+"
+348,188,can I,,,1.,-0.25,0.,-0.2,-1.,-1.,-0.03631976,0.38888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-0.015000000000000003,4,True,3,3,0,34,"11-09-2020-16:37:40-PST
+"
+349,195,,0,1,-1.,0.,-1.,-0.9,-1.,-1.,-1.,0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,7,3,33,"11-09-2020-18:11:51-PST
+"
+350,195,Ok! Thanks!,,,-1.,0.,-1.,-0.9,1.,-1.,-0.1063473,0.33333333,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,True,3.088,2,True,4,7,3,33,"11-09-2020-18:11:51-PST
+"
+351,193,do you think it is 3? i think it is 3,0,1,1.,0.25,-1.,-0.9,-1.,-1.,1.,-0.55555556,1,:),True,0.1,4,True,5,5,1,17,"11-09-2020-18:16:34-PST
+"
+352,193,hmm,1,1,1.,0.25,-0.66666667,-0.9,-1.,-1.,-0.24409562,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,5,5,1,17,"11-09-2020-18:16:34-PST
+"
+353,193,90 is what I think it is,3,1,1.,0.25,0.,-0.9,-1.,-1.,1.,-0.55555556,3,Try thinking about the concept of volume to solve this problem.,True,0.1,4,True,5,5,1,17,"11-09-2020-18:16:34-PST
+"
+354,193,i am a bit confused...,2,1,1.,0.25,-0.33333333,-0.9,-1.,-1.,1.,-0.55555556,2,"Hey, let’s think this through together. I know we can do it!",True,0.1,4,True,5,5,1,17,"11-09-2020-18:16:34-PST
+"
+355,193,"i think it is 6, but i am not sure...",,,1.,0.25,-0.33333333,-0.9,-1.,-1.,-0.02507096,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,1.085,4,True,5,5,1,17,"11-09-2020-19:03:21-PST
+"
+356,184,"I need a hint, not all of those choclate fit in the length of the box.",,,0.,0.5,-0.33333333,-0.8,-0.678,-1.,1.,-0.72222222,2,"The sooner we finish, the sooner we can cross the river on that boat! Let’s get to it!",None,2.001,3,True,6,8,2,14,"11-09-2020-19:42:04-PST
+"
+357,186,ok,1,2,0.,-1.,-0.66666667,-0.8,1.,-1.,-0.1063473,-0.61111111,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+358,186,I am not sure how to answer this question,3,13,0.,-1.,0.,0.3,-1.,-0.562,1.,-0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+359,186,ok,3,13,0.,-1.,0.,0.3,1.,-1.,-0.1063473,-0.61111111,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+360,186,I don't know how to do it,3,13,0.,-1.,0.,0.3,-1.,-1.,1.,-0.61111111,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+361,186,I tried but it still is not right,3,13,0.,-1.,0.,0.3,-1.,-1.,-0.03631976,-0.61111111,0,Think about how to calculate volume with multiplication.,None,0.01,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+362,186,I am still not sure how to answer this question,3,13,0.,-1.,0.,0.3,-1.,-0.606,1.,-0.61111111,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+363,186,I still don't know,3,13,0.,-1.,0.,0.3,-1.,-1.,1.,-0.61111111,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+364,186,thank you,,,0.,-1.,0.,0.3,0.428,-1.,-0.03507275,-0.61111111,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,None,0.9489999999999998,3,True,0,1,1,16,"11-09-2020-20:17:16-PST
+"
+378,199,Ok.,0,1,-1.,1.,-1.,-0.9,1.,-1.,-0.1063473,-0.44444444,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+379,199,It worked,0,1,-1.,1.,-1.,-0.9,-1.,-1.,-0.0572697,-0.44444444,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,None,0.0,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+380,199,We have to figure out the height first.,0,1,-1.,1.,-1.,-0.9,-1.,-1.,-0.03161268,-0.44444444,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+381,199,ok,0,1,-1.,1.,-1.,-0.9,1.,-1.,-0.1063473,-0.44444444,1,:),True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+382,199,I think the answer is 3chocolates for the height.,0,1,-1.,1.,-1.,-0.9,-1.,-1.,1.,-0.44444444,2,You’re doing a great job so far. Just keep trying!,True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+383,199,Thank you,2,1,-1.,1.,-0.33333333,-0.9,0.428,-1.,-0.03507275,-0.44444444,3,Hm... let's keep thinking!,True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+384,199,We got the 3rd one right!,3,1,-1.,1.,0.,-0.9,-1.,-1.,-0.03161268,-0.44444444,1,:),True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+385,199,Let's keep thinking.,3,1,-1.,1.,0.,-0.9,-1.,-1.,-0.04256661,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+386,199,Ok.,3,1,-1.,1.,0.,-0.9,1.,-1.,-0.1063473,-0.44444444,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+387,199,We got the first one right!,1,1,-1.,1.,-0.66666667,-0.9,-1.,-1.,-0.03161268,-0.44444444,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+388,199,yeah,1,1,-1.,1.,-0.66666667,-0.9,1.,-1.,-0.1440913,-0.44444444,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+389,199,We got another one correct!,2,1,-1.,1.,-0.33333333,-0.9,-1.,-1.,-0.03161268,-0.44444444,2,You’re doing a great job so far. Just keep trying!,True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+390,199,We got another one right!,4,1,-1.,1.,0.33333333,-0.9,-1.,-1.,-0.03161268,-0.44444444,1,:),True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+391,199,Do you think we multiply or divide.,4,1,-1.,1.,0.33333333,-0.9,-1.,-1.,1.,-0.44444444,1,:),True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+392,199,ok,5,1,-1.,1.,0.66666667,-0.9,1.,-1.,-0.1063473,-0.44444444,1,:),True,0.1,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+393,199,Also we got another one right!,5,1,-1.,1.,0.66666667,-0.9,-1.,-1.,-0.03161268,-0.44444444,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",True,0.11,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+394,199,smaller.,5,1,-1.,1.,0.66666667,-0.9,-1.,-1.,-0.20563251,-0.44444444,0,"Because 180 is smaller than 200, you should be safe to board the boat with the chocolates.",True,0.11,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+395,199,Ok.Thanks for the hint!,,,-1.,1.,0.66666667,-0.9,-1.,-1.,1.,-0.44444444,1,:),True,0.049,2,True,8,8,0,19,"11-10-2020-10:26:29-PST
+"
+396,202,300?,3,4,0.,-0.25,0.,-0.6,-1.,-1.,-1.,-0.27777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,3,6,3,22,"11-10-2020-11:02:06-PST
+"
+397,202,300?,,,0.,-0.25,0.,-0.6,-1.,-1.,-1.,-0.27777778,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,2.985,3,True,3,6,3,22,"11-10-2020-11:27:20-PST
+"
+398,227,wait,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.10850284,-0.55555556,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+399,227,but in that picture theres a space at the right,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.0460712,-0.55555556,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+400,227,ughhhhh,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-1.,-0.55555556,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+401,227,its 5.5,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.15751746,-0.55555556,2,You’re doing a great job so far. Just keep trying!,None,0.0,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+402,227,help,1,4,1.,1.,-0.66666667,-0.6,1.,-1.,1.,-0.55555556,1,:),None,0.0,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+403,227,nooooo,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.29355082,-0.55555556,2,I’m so glad you’re here to help. I know you can solve this problem!,None,0.0,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+404,227,'elp me uglyface,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.03887937,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+405,227,yeah yeah ok,1,4,1.,1.,-0.66666667,-0.6,1.,-1.,-0.1063473,-0.55555556,3,Hm... let's keep thinking!,None,0.0,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+406,227,YOURE not thinking,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.04149085,-0.55555556,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+407,227,thanks a lot uglyface,1,4,1.,1.,-0.66666667,-0.6,0.184,-1.,-0.0583898,-0.55555556,0,"By sliding the chocolate along the width of the box and using the chocolate as a reference, you will find that the width fits 5 chocolates.",None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+408,227,that is NOT five,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-0.04149085,-0.55555556,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+409,227,MEANIEE,1,4,1.,1.,-0.66666667,-0.6,-1.,-1.,-1.,-0.55555556,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+410,227,i dont like this move the choco around thing,4,3,1.,1.,0.33333333,-0.7,-1.,-0.536,1.,-0.55555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+411,227,its innacurate,4,3,1.,1.,0.33333333,-0.7,-1.,-1.,-0.15751746,-0.55555556,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.01,4,True,8,7,0,17,"11-10-2020-15:26:47-PST
+"
+412,227,i never asked for a hint uglyface,,,1.,1.,0.33333333,-0.7,-1.,-1.,1.,-0.55555556,3,Hm... let's keep thinking!,None,-0.129,4,True,8,7,0,17,"11-10-2020-15:27:37-PST
+"
+413,230,how do we find out how to do this?,3,4,1.,0.,0.,-0.6,-1.,-1.,1.,-0.33333333,1,:),None,0.0,4,True,4,7,3,21,"11-10-2020-16:24:05-PST
+"
+414,230,cool!,,,1.,0.,-0.33333333,-0.9,1.,-1.,-0.14831369,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,3.098,4,True,4,7,3,21,"11-10-2020-16:24:05-PST
+"
+415,231,?,,,-1.,1.,0.33333333,-0.8,-1.,-1.,-1.,-0.61111111,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,0.001,2,True,8,5,0,16,"11-11-2020-10:38:40-PST
+"
+416,233,hmmm,1,10,0.,0.,-0.66666667,0.,-1.,-1.,-0.17455017,-0.77777778,1,:),None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+417,233,can I go to the bathroom,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.03631976,-0.77777778,1,:),True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+418,233,hi,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.29048756,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+419,233,can you help me,0,7,0.,0.,-1.,-0.3,-0.052,-1.,1.,-0.77777778,2,I’m so glad you’re here to help. I know you can solve this problem!,None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+420,233,please,0,7,0.,0.,-1.,-0.3,1.,-1.,-0.14122125,-0.77777778,1,:),None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+421,233,no!,0,7,0.,0.,-1.,-0.3,-1.,1.,-0.06320011,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+422,233,lets brain storm,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.1721553,-0.77777778,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+423,233,I need help,0,7,0.,0.,-1.,-0.3,0.46,-1.,1.,-0.77777778,1,:),True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+424,233,not helpful,0,7,0.,0.,-1.,-0.3,-1.,0.4,1.,-0.77777778,1,:),True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+425,233,hi,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.29048756,-0.77777778,2,The people in the village need you! Keep working hard.,None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+426,233,I cant do it,0,7,0.,0.,-1.,-0.3,-1.,-1.,1.,-0.77777778,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+427,233,help,0,7,0.,0.,-1.,-0.3,1.,-1.,1.,-0.77777778,1,:),None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+428,233,Whats your name,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.10675704,-0.77777778,2,This problem doesn’t stand a chance against us!,None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+429,233,can you give me a clue to solve this problem,0,7,0.,0.,-1.,-0.3,-0.698,-0.476,-0.03507275,-0.77777778,1,:),True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+430,233,hmmm,0,7,0.,0.,-1.,-0.3,-1.,-1.,-0.17455017,-0.77777778,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",True,0.11,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+431,233,hmmm,1,10,0.,0.,-0.66666667,0.,-1.,-1.,-0.17455017,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+432,233,I'm stuck,0,7,0.,0.,-1.,-0.3,-1.,0.334,1.,-0.77777778,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+433,233,can you help me please,1,10,0.,0.,-0.66666667,0.,0.25,-1.,1.,-0.77777778,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+434,233,help,1,10,0.,0.,-0.66666667,0.,1.,-1.,1.,-0.77777778,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+435,233,ha,1,10,0.,0.,-0.66666667,0.,1.,-1.,-0.38638868,-0.77777778,3,Hm... let's keep thinking!,True,0.1,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+436,233,help,3,2,0.,0.,0.,-0.8,1.,-1.,1.,-0.77777778,1,:),None,0.0,3,True,4,3,3,13,"11-11-2020-12:14:26-PST
+"
+437,233,I am confused,,,0.,0.,0.,-0.8,-1.,0.394,1.,-0.77777778,2,"You’ve just about got it. Don’t give up, yet!",None,2.936,3,True,4,3,3,13,"11-11-2020-16:15:39-PST
+"
+438,209,hint please,3,11,1.,-0.5,0.,0.1,0.394,-1.,1.,-0.16666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,2,4,3,24,"11-11-2020-16:50:39-PST
+"
+439,209,I need help,,,1.,-0.5,0.,0.1,0.46,-1.,1.,-0.16666667,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,2.988,4,True,2,4,3,24,"11-11-2020-16:50:39-PST
+"
+440,208,i need help,0,12,1.,0.,-1.,0.2,0.46,-1.,1.,-0.11111111,1,:),True,0.1,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+441,208,help,0,12,1.,0.,-1.,0.2,1.,-1.,1.,-0.11111111,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+442,208,i did,0,12,1.,0.,-1.,0.2,-1.,-1.,-0.03631976,-0.11111111,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+443,208,help,3,8,1.,0.,0.,-0.2,1.,-1.,1.,-0.11111111,2,You’re doing a great job so far. Just keep trying!,None,0.0,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+444,208,help,3,8,1.,0.,0.,-0.2,1.,-1.,1.,-0.11111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+445,208,help,3,8,1.,0.,0.,-0.2,1.,-1.,1.,-0.11111111,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+446,208,no help,3,8,1.,0.,0.,-0.2,0.102,-0.102,1.,-0.11111111,1,:),True,0.1,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+447,208,help',3,8,1.,0.,0.,-0.2,1.,-1.,1.,-0.11111111,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",None,0.0,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+448,208,help,,,1.,0.,0.33333333,-0.3,1.,-1.,1.,-0.11111111,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,-0.04100000000000001,4,True,4,4,0,25,"11-11-2020-16:51:10-PST
+"
+449,210,ok thanks!,,,1.,-0.75,0.,-0.9,1.,-1.,-0.1063473,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,4.098,4,True,1,5,4,19,"11-11-2020-17:15:44-PST
+"
+450,212,How many chocolates are there?,0,1,0.,0.,-1.,-0.9,-1.,-1.,1.,-0.05555556,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,0.0,3,True,4,5,3,26,"11-11-2020-17:34:21-PST
+"
+451,212,how do I type my answer?,,,0.,0.,-1.,-0.9,-1.,-1.,1.,-0.05555556,2,"If we put our minds together, we can figure this problem out!",True,3.101,3,True,4,5,3,26,"11-11-2020-17:34:21-PST
+"
+452,213,can i have pointers?,0,5,-1.,-0.25,-1.,-0.5,-1.,-1.,1.,-0.88888889,2,The people in the village need you! Keep working hard.,True,0.1,2,True,3,8,5,11,"11-11-2020-18:11:04-PST
+"
+453,213,help?,,,-1.,-0.25,0.,1.3,1.,-1.,1.,-0.88888889,2,I know we can do this together. Keep thinking!,None,5.001,2,True,3,8,5,11,"11-11-2020-18:11:04-PST
+"
+454,214,no,2,5,-1.,-1.,-0.33333333,-0.5,-1.,1.,-0.06320011,-0.77777778,1,:),None,0.0,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+455,214,whats lengs mean,2,5,-1.,-1.,-0.33333333,-0.5,-1.,-1.,-0.07616984,-0.77777778,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+456,214,not helpful,2,5,-1.,-1.,-0.33333333,-0.5,-1.,0.4,1.,-0.77777778,1,:),None,0.0,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+457,214,no,2,5,-1.,-1.,-0.33333333,-0.5,-1.,1.,-0.06320011,-0.77777778,3,Hm... let's keep thinking!,None,0.0,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+458,214,no,2,5,-1.,-1.,-0.33333333,-0.5,-1.,1.,-0.06320011,-0.77777778,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",None,0.0,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+459,214,tell me what length means,2,5,-1.,-1.,-0.33333333,-0.5,-1.,-1.,1.,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+460,214,not helpful,,,-1.,-1.,-0.33333333,-0.5,-1.,0.4,1.,-0.77777778,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,3.9850000000000003,2,True,0,4,4,13,"11-11-2020-18:39:02-PST
+"
+461,215,how do I unhelpful it,0,1,0.,-0.25,-1.,-0.9,-1.,-1.,1.,-0.16666667,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+462,215,help!,2,5,0.,-0.25,-0.33333333,-0.5,1.,-1.,1.,-0.16666667,3,Hm... let's keep thinking!,None,0.0,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+463,215,do I times it?,3,4,0.,-0.25,0.,-0.6,-1.,-1.,1.,-0.16666667,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,None,0.0,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+464,215,what does it mean when it asks me the height?,0,1,0.,-0.25,-1.,-0.9,-1.,-1.,1.,-0.16666667,2,"You’ve just about got it. Don’t give up, yet!",True,0.1,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+465,215,what is length?,2,5,0.,-0.25,-0.33333333,-0.5,-1.,-1.,1.,-0.16666667,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+466,215,ok,,,0.,-0.25,0.66666667,-0.9,1.,-1.,-0.1063473,-0.16666667,3,Hm... let's keep thinking!,None,4.001,3,True,3,7,4,24,"11-11-2020-18:50:13-PST
+"
+467,211,mmh,,,0.,1.,-1.,-0.9,-1.,-1.,-0.40172555,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.098,3,True,8,8,0,11,"11-11-2020-19:46:19-PST
+"
+468,219,thanks!,4,1,1.,0.,0.33333333,-0.9,1.,-1.,-0.15282053,-0.77777778,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,4,True,4,7,4,13,"11-12-2020-10:23:26-PST
+"
+469,219,Thanks Princess Peacock,3,3,1.,0.,0.,-0.7,0.184,-1.,-0.15282053,-0.77777778,2,You’re super close! Let’s think about this a little more and try again.,True,0.1,4,True,4,7,4,13,"11-12-2020-10:23:26-PST
+"
+470,219,I need your help Princess peacock,,,1.,0.,0.,-0.7,-0.194,-1.,1.,-0.77777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,3.9850000000000003,4,True,4,7,4,13,"11-12-2020-12:47:40-PST
+"
+471,234,how wide were the chokolates,0,8,1.,0.25,-1.,-0.2,-1.,-1.,1.,-0.77777778,2,"Hey, let’s think this through together. I know we can do it!",True,0.1,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+472,234,anything else,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-0.02486803,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+473,234,can you help pleas,0,8,1.,0.25,-1.,-0.2,-0.052,-1.,1.,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+474,234,yes pleas,0,8,1.,0.25,-1.,-0.2,0.46,-1.,-0.08166112,-0.77777778,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",True,0.11,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+475,234,am I finding the volume,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-0.03631976,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,True,0.11,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+476,234,what about the lid,0,8,1.,0.25,-1.,-0.2,-1.,-1.,1.,-0.77777778,1,:),None,0.0,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+477,234,I give up,,,1.,0.25,-1.,-0.2,-1.,-1.,-0.03631976,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,2.9459999999999997,4,True,5,8,3,13,"11-12-2020-16:17:44-PST
+"
+478,238,so is the problem like 90 x 2 ounces?,4,1,1.,0.75,0.33333333,-0.9,-0.522,-0.434,-0.03305731,-0.44444444,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,4,True,7,8,1,19,"11-12-2020-16:18:02-PST
+"
+479,238,"ok, thanks",,,1.,0.75,0.,-0.9,1.,-1.,-0.1063473,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,1.085,4,True,7,8,1,19,"11-12-2020-16:18:02-PST
+"
+480,235,hello,,,0.,1.,-1.,-0.9,-1.,-1.,-0.27493058,-0.5,2,We need to solve this problem to stop the natural disaster. I believe in you!,True,0.101,3,True,8,8,0,18,"11-12-2020-16:35:31-PST
+"
+481,236,No thanks,,,-1.,0.,0.33333333,-0.8,0.138,-0.138,-0.06320011,0.05555556,1,:),True,4.101,2,True,4,8,4,28,"11-12-2020-17:20:54-PST
+"
+482,241,okay,,,1.,1.,-0.66666667,-0.8,1.,-1.,-0.15501975,-0.77777778,3,Hm... let's keep thinking!,True,0.101,4,True,8,8,0,13,"11-13-2020-11:52:25-PST
+"
+483,242,How many chocolates do you think can fit in the box?,0,4,1.,1.,-1.,-0.6,-0.6,-1.,1.,-0.66666667,2,You’re almost there. Just keep trying!,None,0.0,4,True,8,8,0,15,"11-13-2020-12:07:40-PST
+"
+484,242,How many chocolates do you think can fit in the box?,,,1.,1.,-1.,-0.6,-0.6,-1.,1.,-0.66666667,3,Hm... let's keep thinking!,None,0.001,4,True,8,8,0,15,"11-13-2020-12:07:40-PST
+"
+485,191,there are six one the bottom and three going up,,,0.,-0.75,-1.,-0.8,-1.,-1.,-0.05513746,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.098,3,True,1,0,0,12,"11-14-2020-13:33:02-PST
+"
+486,243,ok,,,1.,-0.25,-1.,-0.9,1.,-1.,-0.1063473,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,3.098,4,True,3,6,3,11,"11-14-2020-20:14:53-PST
+"
+487,249,How much do we weigh together,,,0.,1.,0.66666667,-0.8,-1.,-1.,1.,-0.66666667,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",True,0.101,3,True,8,8,0,15,"11-15-2020-11:23:32-PST
+"
+488,254,can we think of somthing together?,3,3,-1.,0.,0.,-0.7,-1.,-1.,-0.02507096,-0.61111111,1,:),None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+489,254,thanks,1,1,-1.,0.,-0.66666667,-0.9,1.,-1.,-0.15282053,-0.61111111,3,Hm... let's keep thinking!,None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+490,254,ok i forgot what length means,2,7,-1.,0.,-0.33333333,-0.3,-0.29,-1.,1.,-0.61111111,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,True,0.1,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+491,254,can we brainsrorm?,2,7,-1.,0.,-0.33333333,-0.3,-1.,-1.,-0.03161268,-0.61111111,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+492,254,can we brainsrorm?,2,7,-1.,0.,-0.33333333,-0.3,-1.,-1.,-0.03161268,-0.61111111,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+493,254,i am kind of stuck,3,3,-1.,0.,0.,-0.7,-1.,-0.134,1.,-0.61111111,1,:),None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+494,254,ok :),2,7,-1.,0.,-0.33333333,-0.3,1.,-1.,-0.1063473,-0.61111111,1,:),None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+495,254,can we brainsrorm?,3,3,-1.,0.,0.,-0.7,-1.,-1.,-0.03161268,-0.61111111,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,0.0,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+496,254,i wan't to brainstorm together,,,-1.,0.,0.,-0.7,-1.,-1.,-0.03631976,-0.61111111,2,I know we can do this together. Keep thinking!,None,-8,2,False,4,4,0,16,"11-15-2020-12:17:38-PST
+"
+497,264,i need help,3,19,0.,0.,0.,0.9,0.46,-1.,1.,0.16666667,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",True,0.1,3,True,4,2,0,30,"11-15-2020-13:52:43-PST
+"
+498,264,i still don't know ,3,19,0.,0.,0.,0.9,-1.,-1.,1.,0.16666667,1,:),None,0.0,3,True,4,2,0,30,"11-15-2020-13:52:43-PST
+"
+499,264,cau he,3,19,0.,0.,0.,0.9,-1.,-1.,-0.11160506,0.16666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,4,2,0,30,"11-15-2020-13:52:43-PST
+"
+500,264,I got it! :),,,0.,0.,0.,0.9,0.244,-1.,-0.03631976,0.16666667,1,:),True,0.08800000000000001,3,True,4,2,0,30,"11-15-2020-13:52:43-PST
+"
+501,265,I think the answer is around 3,0,1,0.,1.,-1.,-0.9,-1.,-1.,1.,-0.61111111,2,"Hey, let’s think this through together. I know we can do it!",None,0.0,3,True,8,8,0,16,"11-15-2020-14:04:19-PST
+"
+502,265,I think I got it,0,1,0.,1.,-1.,-0.9,-1.,-1.,-0.02507096,-0.61111111,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,3,True,8,8,0,16,"11-15-2020-14:04:19-PST
+"
+503,265,ok,1,3,0.,1.,-0.66666667,-0.7,1.,-1.,-0.1063473,-0.61111111,3,Hm... let's keep thinking!,None,0.0,3,True,8,8,0,16,"11-15-2020-14:04:19-PST
+"
+504,265,I got it correct,,,0.,1.,-0.66666667,-0.7,-1.,-1.,-0.03631976,-0.61111111,2,You’re almost there. Just keep trying!,None,0.001,3,True,8,8,0,16,"11-15-2020-14:30:20-PST
+"
+505,267,yes i know so do i do that for the rest?,0,8,1.,0.25,-1.,-0.2,-0.496,-1.,1.,-0.77777778,1,:),None,0.0,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+506,267,i still don't get it sorry,0,8,1.,0.25,-1.,-0.2,-0.532,-1.,1.,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+507,267,then what do i do for the other places?,0,8,1.,0.25,-1.,-0.2,-1.,-1.,1.,-0.77777778,1,:),True,0.1,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+508,267,?,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-1.,-0.77777778,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+509,267,hi,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-0.29048756,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+510,267,?,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-1.,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+511,267,oki,0,8,1.,0.25,-1.,-0.2,-1.,-1.,-0.49351155,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+512,267,do i just times the height by the length?,0,8,1.,0.25,-1.,-0.2,-1.,-1.,1.,-0.77777778,3,Hm... let's keep thinking!,None,0.0,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+513,267,?,,,1.,0.25,-1.,-0.2,-1.,-1.,-1.,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.9329999999999998,4,True,5,4,1,13,"11-15-2020-14:47:32-PST
+"
+514,268,I think I got this,,,-1.,0.75,0.33333333,-0.9,-1.,-1.,-0.02507096,-0.44444444,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,1.098,2,True,7,8,1,19,"11-15-2020-15:21:31-PST
+"
+515,269,? i dont get it,0,1,1.,1.,-1.,-0.9,-1.,-1.,1.,-0.72222222,2,I know we can do this together. Keep thinking!,None,0.0,4,True,8,8,0,14,"11-15-2020-15:34:25-PST
+"
+516,269,how many chocolates can fit in the hight,,,1.,1.,-1.,-0.9,-0.474,-1.,1.,-0.72222222,1,:),None,0.001,4,True,8,8,0,14,"11-15-2020-15:34:25-PST
+"
+517,270,Can you give me some pointers?,4,2,0.,0.5,0.33333333,-0.8,-1.,-1.,1.,-0.61111111,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,3,True,6,7,1,16,"11-15-2020-16:01:02-PST
+"
+518,270,Thanks,,,0.,0.5,0.66666667,-0.9,1.,-1.,-0.15282053,-0.61111111,3,Hm... let's keep thinking!,None,0.9879999999999999,3,True,6,7,1,16,"11-15-2020-16:01:02-PST
+"
+519,271,What is the height? Or can you tell me hw to estimate the height?,0,19,1.,-0.25,-1.,0.9,-1.,-1.,1.,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,3,3,11,"11-15-2020-16:17:37-PST
+"
+520,271,I need a hint please. ,3,28,1.,-0.25,0.,1.8,0.07,-1.,1.,-0.88888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,3,3,3,11,"11-15-2020-16:17:37-PST
+"
+521,271,Ok Thank You!,4,2,1.,-0.25,0.33333333,-0.8,0.666,-1.,-0.03507275,-0.88888889,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,4,True,3,3,3,11,"11-15-2020-16:17:37-PST
+"
+522,271,May I have another hint?,,,1.,-0.25,0.,1.8,-1.,-1.,1.,-0.88888889,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,3.0589999999999997,4,True,3,3,3,11,"11-16-2020-15:37:45-PST
+"
+523,272,ok,,,1.,1.,-0.33333333,-0.9,1.,-1.,-0.1063473,-0.88888889,3,Hm... let's keep thinking!,None,0.001,4,True,8,7,0,11,"11-16-2020-16:21:24-PST
+"
+524,275,okay,,,0.,0.75,-0.33333333,-0.7,1.,-1.,-0.15501975,-0.44444444,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,0.001,3,True,7,7,0,19,"11-16-2020-16:25:05-PST
+"
+525,274,what is the height of the box?,0,3,-1.,0.75,-1.,-0.7,-1.,-1.,1.,-0.55555556,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,True,7,4,1,17,"11-16-2020-16:43:23-PST
+"
+526,274,what is the height of the chocolates?,0,3,-1.,0.75,-1.,-0.7,-1.,-1.,1.,-0.55555556,2,You’re super close! Let’s think about this a little more and try again.,None,0.0,2,True,7,4,1,17,"11-16-2020-16:43:23-PST
+"
+527,274,5,,,-1.,0.75,-0.33333333,-0.8,-1.,-1.,-1.,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.9979999999999999,2,True,7,4,1,17,"11-16-2020-16:43:23-PST
+"
+528,276,fire,,,1.,0.5,0.33333333,-0.9,-1.,1.,-0.21003117,-0.77777778,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,1.9979999999999998,4,True,6,8,2,13,"11-16-2020-17:43:43-PST
+"
+529,280,How many chocolates fit along the height?,0,3,1.,0.75,-1.,-0.7,-0.412,-1.,1.,-0.72222222,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,7,8,1,14,"11-16-2020-20:58:20-PST
+"
+530,280,Do you think the,,,1.,0.75,-1.,-0.7,-1.,-1.,1.,-0.72222222,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.9849999999999999,4,True,7,8,1,14,"11-17-2020-10:45:32-PST
+"
+531,284,I'm confused,3,1,-1.,-0.25,0.,-0.9,-1.,0.394,1.,-0.16666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,2,True,3,5,4,24,"11-17-2020-11:15:29-PST
+"
+532,284,I still don't get it,3,1,-1.,-0.25,0.,-0.9,-1.,-1.,1.,-0.16666667,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,3,5,4,24,"11-17-2020-11:15:29-PST
+"
+533,284,how do you calculate a volume?,,,-1.,-0.25,0.,-0.9,-1.,-1.,1.,-0.16666667,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",True,4.072,2,True,3,5,4,24,"11-17-2020-15:31:01-PST
+"
+534,306,i can't,0,4,-1.,-0.25,-1.,-0.6,-1.,-1.,-0.02213507,-0.44444444,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+535,306,yay,3,4,-1.,-0.25,0.,-0.6,1.,-1.,-0.36503603,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+536,306,i don't know,3,4,-1.,-0.25,0.,-0.6,-1.,-1.,1.,-0.44444444,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+537,306,hi,0,4,-1.,-0.25,-1.,-0.6,-1.,-1.,-0.29048756,-0.44444444,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+538,306,ok,2,2,-1.,-0.25,-0.33333333,-0.8,1.,-1.,-0.1063473,-0.44444444,3,Hm... let's keep thinking!,None,0.0,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+539,306,how do i find how much chocolates can fit inside marigold,3,4,-1.,-0.25,0.,-0.6,-0.566,-1.,1.,-0.44444444,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,3,7,5,19,"11-17-2020-16:11:57-PST
+"
+540,306,ohhh ok i get it,,,-1.,-0.25,0.,-0.6,-0.154,-1.,-0.03631976,-0.44444444,0,Think about how to calculate volume with multiplication.,None,4.933,2,True,3,7,5,19,"11-17-2020-16:55:30-PST
+"
+541,310,Hi,3,1,1.,1.,0.,-0.9,-1.,-1.,-0.29048756,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,4,True,8,7,0,15,"11-17-2020-19:32:26-PST
+"
+542,310,Ok,4,1,1.,1.,0.33333333,-0.9,1.,-1.,-0.1063473,-0.66666667,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,4,True,8,7,0,15,"11-17-2020-19:32:26-PST
+"
+543,310,Ok,4,1,1.,1.,0.33333333,-0.9,1.,-1.,-0.1063473,-0.66666667,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",True,0.11,4,True,8,7,0,15,"11-17-2020-19:32:26-PST
+"
+544,310,Well thankyou,5,1,1.,1.,0.66666667,-0.9,0.354,-1.,-0.08473219,-0.66666667,3,Hm... let's keep thinking!,True,0.1,4,True,8,7,0,15,"11-17-2020-19:32:26-PST
+"
+545,310,Ok,,,1.,1.,-0.66666667,-0.9,1.,-1.,-0.1063473,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.059,4,True,8,7,0,15,"11-17-2020-19:32:26-PST
+"
+546,312,"hmm chloconut, I don't really get this problem. can you help me?",0,10,0.,0.5,-1.,0.,-0.644,-0.544,1.,-1.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+547,312,I know ,0,10,0.,0.5,-1.,0.,-1.,-1.,1.,-1.,2,"The sooner we finish, the sooner we can cross the river on that boat! Let’s get to it!",None,0.0,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+548,312,ok!,0,10,0.,0.5,-1.,0.,1.,-1.,-0.1063473,-1.,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+549,312,ok,0,10,0.,0.5,-1.,0.,1.,-1.,-0.1063473,-1.,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",True,0.11,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+550,312,yes chloconut I found out that,0,10,0.,0.5,-1.,0.,-0.194,-1.,-0.03631976,-1.,0,You have seen all the hints. Try your best to answer the question!,True,0.11,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+551,312,ok,0,10,0.,0.5,-1.,0.,1.,-1.,-0.1063473,-1.,0,You have seen all the hints. Try your best to answer the question!,True,0.11,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+552,312,ok,0,10,0.,0.5,-1.,0.,1.,-1.,-0.1063473,-1.,0,You have seen all the hints. Try your best to answer the question!,True,0.11,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+553,312,I know now!,3,1,0.,0.5,0.,-0.9,-1.,-1.,1.,-1.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+554,312,we will get across the river in no time!,,,0.,0.5,0.,-0.9,-1.,-0.524,-0.03161268,-1.,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,2.0069999999999997,3,True,6,8,2,9,"11-17-2020-20:08:59-PST
+"
+555,285,how can we find the chocalate,,,0.,1.,-1.,-0.9,-1.,-1.,1.,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.098,3,True,8,8,0,21,"11-18-2020-15:54:53-PST
+"
+556,286,Can you help me,2,4,-1.,0.,-0.33333333,-0.6,-0.052,-1.,1.,-1.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+557,286,,0,6,-1.,0.,-1.,-0.4,-1.,-1.,-1.,-1.,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+558,286,I'm stuck,0,6,-1.,0.,-1.,-0.4,-1.,0.334,1.,-1.,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+559,286,"I NEED A HINT,PLEASE!",3,20,-1.,0.,0.,1.,-1.,-1.,1.,-1.,1,:),None,0.0,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+560,286,Ummmmm,3,20,-1.,0.,0.,1.,-1.,-1.,-1.,-1.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+561,286,uh still have major prob,3,20,-1.,0.,0.,1.,-1.,-1.,-0.0591944,-1.,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+562,286,I.,3,20,-1.,0.,0.,1.,-1.,-1.,-0.03631976,-1.,1,:),None,0.0,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+563,286,Can't,3,20,-1.,0.,0.,1.,-1.,-1.,-0.02213507,-1.,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+564,286,22,3,20,-1.,0.,0.,1.,-1.,-1.,-1.,-1.,0,Think about how to calculate volume with multiplication.,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+565,286,+22,3,20,-1.,0.,0.,1.,-1.,-1.,-1.,-1.,0,Area = Length x Width = 6 x 5 = 30,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+566,286,=44,3,20,-1.,0.,0.,1.,-1.,-1.,-1.,-1.,0,Putting them together:,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+567,286,18+18=36,3,20,-1.,0.,0.,1.,-1.,-1.,-1.,-1.,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,4,4,0,9,"11-18-2020-16:14:17-PST
+"
+568,286,"U told me the answer already,Rainbow Glitter Yeti",,,-1.,0.,0.33333333,-0.9,-1.,-1.,1.,-1.,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,-0.132,2,True,4,4,0,9,"11-18-2020-16:30:53-PST
+"
+569,290,i need help,0,2,-1.,-0.25,-1.,-0.8,0.46,-1.,1.,-0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,3,5,3,16,"11-18-2020-17:44:52-PST
+"
+570,290,still dont get it,3,4,-1.,-0.25,0.,-0.6,-1.,-1.,1.,-0.61111111,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,3,5,3,16,"11-18-2020-17:44:52-PST
+"
+571,290,Help!!!!!!!!!!!!!,3,4,-1.,-0.25,0.,-0.6,-1.,-1.,1.,-0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,3,5,3,16,"11-18-2020-17:44:52-PST
+"
+572,290,hint plz,,,-1.,-0.25,0.,-0.6,0.13,-1.,1.,-0.61111111,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,2.9589999999999996,2,True,3,5,3,16,"11-18-2020-17:44:52-PST
+"
+573,311,hint,,,-1.,1.,-0.33333333,-0.3,-1.,-1.,1.,-1.,0,You can move your mouse close to the box to turn it into a chocolate!,None,-0.0020000000000000018,2,True,8,8,0,9,"11-18-2020-18:13:27-PST
+"
+574,292,hmm,0,3,-1.,0.,-1.,-0.7,-1.,-1.,-0.24409562,-0.72222222,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+575,292,lets see,0,3,-1.,0.,-1.,-0.7,-1.,-1.,-0.05808198,-0.72222222,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+576,292,what method should I use?,3,7,-1.,0.,0.,-0.3,-1.,-1.,1.,-0.72222222,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+577,292,hmm,3,7,-1.,0.,0.,-0.3,-1.,-1.,-0.24409562,-0.72222222,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+578,292,do you use addition?,3,7,-1.,0.,0.,-0.3,-1.,-1.,1.,-0.72222222,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+579,292,hmm,,,-1.,0.,0.,-0.3,-1.,-1.,-0.24409562,-0.72222222,0,Think about how to calculate volume with multiplication.,None,2.933,2,True,4,5,3,14,"11-18-2020-18:16:41-PST
+"
+580,294,ok,,,-1.,0.,0.,-0.2,1.,-1.,-0.1063473,-0.88888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-0.0020000000000000018,2,True,4,3,0,11,"11-18-2020-19:04:08-PST
+"
+581,301,ok,1,3,0.,0.,-0.66666667,-0.7,1.,-1.,-0.1063473,0.,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,4,3,0,27,"11-19-2020-12:24:07-PST
+"
+582,301,2+3=,3,1,0.,0.,0.,-0.9,-1.,-1.,-1.,0.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,4,3,0,27,"11-19-2020-12:24:07-PST
+"
+583,301,15x6,,,0.,0.,0.,-0.9,-1.,-1.,-1.,0.,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,-0.028000000000000008,3,True,4,3,0,27,"11-19-2020-12:24:07-PST
+"
+584,300,okay,,,1.,0.75,0.,-0.9,1.,-1.,-0.15501975,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,1.098,4,True,7,8,1,15,"11-19-2020-13:41:57-PST
+"
+585,314,I think that 3 chocolates will fit in the height. What do you think?,0,1,-1.,0.75,-1.,-0.9,-0.63,-1.,1.,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,7,8,1,11,"11-19-2020-15:40:16-PST
+"
+586,314,5,,,-1.,0.75,-0.66666667,-0.9,-1.,-1.,-1.,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,1.085,2,True,7,8,1,11,"11-19-2020-15:40:16-PST
+"
+587,316,can i have a hint?,,,-1.,-0.5,0.,-0.9,-1.,-1.,1.,-0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,5.998,2,True,2,8,6,16,"11-19-2020-16:35:33-PST
+"
+588,313,what do i do,0,1,-1.,0.5,-1.,-0.9,-1.,-1.,1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+589,313,thx,0,1,-1.,0.5,-1.,-0.9,1.,-1.,-0.44500866,-0.38888889,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+590,313,hmmm ur right,0,1,-1.,0.5,-1.,-0.9,-1.,-1.,-0.08771972,-0.38888889,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+591,313,are you ok?,0,1,-1.,0.5,-1.,-0.9,0.048,-1.,-0.03507275,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,True,0.11,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+592,313,we should get going,0,1,-1.,0.5,-1.,-0.9,-1.,-1.,-0.03161268,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+593,313,okkkkkkkk,0,1,-1.,0.5,-1.,-0.9,-1.,-1.,-1.,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+594,313,how do i do this,1,1,-1.,0.5,-0.66666667,-0.9,-1.,-1.,1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+595,313,hi can i know more about u,4,1,-1.,0.5,0.33333333,-0.9,-1.,-1.,1.,-0.38888889,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+596,313,how do u do it,4,1,-1.,0.5,0.33333333,-0.9,-1.,-1.,1.,-0.38888889,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+597,313,is it 180,4,1,-1.,0.5,0.33333333,-0.9,-1.,-1.,-0.0572697,-0.38888889,0,Weight of the box of chocolates,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+598,313,ok,5,1,-1.,0.5,0.66666667,-0.9,1.,-1.,-0.1063473,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+599,313,ok,0,1,-1.,0.5,-1.,-0.9,1.,-1.,-0.1063473,-0.38888889,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+600,313,can you give me a hint,1,1,-1.,0.5,-0.66666667,-0.9,-1.,-1.,1.,-0.38888889,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+601,313,how many is it,1,1,-1.,0.5,-0.66666667,-0.9,-1.,-1.,1.,-0.38888889,0,"By sliding the chocolate along the width of the box and using the chocolate as a reference, you will find that the width fits 5 chocolates.",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+602,313,wow,2,1,-1.,0.5,-0.33333333,-0.9,1.,-1.,-0.21525357,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+603,313,how many is it,2,1,-1.,0.5,-0.33333333,-0.9,-1.,-1.,1.,-0.38888889,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+604,313,ook,2,1,-1.,0.5,-0.33333333,-0.9,-1.,-1.,-0.26035293,-0.38888889,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+605,313,wow how r u so good',2,1,-1.,0.5,-0.33333333,-0.9,0.556,-1.,1.,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+606,313,ok and,5,1,-1.,0.5,0.66666667,-0.9,0.376,-1.,-0.1063473,-0.38888889,0,"Because 180 is smaller than 200, you should be safe to board the boat with the chocolates.",None,0.01,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+607,313,what does this mean,,,-1.,0.5,0.66666667,-0.9,-1.,-1.,1.,-0.38888889,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,0.7639999999999999,2,True,6,6,1,20,"11-19-2020-17:45:14-PST
+"
+608,320,Hi! I am doing great. I don't need help,4,1,0.,0.5,0.33333333,-0.9,-0.246,-0.612,1.,-0.55555556,1,:),True,0.1,3,True,6,7,1,17,"11-21-2020-10:27:07-PST
+"
+609,320,;),,,0.,0.5,0.33333333,-0.9,1.,-1.,-1.,-0.55555556,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",True,1.101,3,True,6,7,1,17,"11-21-2020-10:27:07-PST
+"
+610,321,How do I place the chocolates?,0,7,0.,1.,-1.,-0.3,-1.,-1.,1.,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,8,8,0,13,"11-21-2020-11:01:08-PST
+"
+611,321,"If I put a chocolate on the height of the box, it does not stay there.",0,7,0.,1.,-1.,-0.3,-1.,-1.,-0.03631976,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,3,True,8,8,0,13,"11-21-2020-11:01:08-PST
+"
+612,321,t,,,0.,1.,-1.,-0.3,-1.,-1.,-0.23371684,-0.77777778,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,-0.028000000000000008,3,True,8,8,0,13,"11-21-2020-11:01:08-PST
+"
+613,322,I think the length,2,1,0.,1.,-0.33333333,-0.9,-1.,-1.,-0.02507096,-0.94444444,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,8,8,0,10,"11-21-2020-11:29:16-PST
+"
+614,322,Thanks!,,,0.,1.,-0.33333333,-0.9,1.,-1.,-0.15282053,-0.94444444,3,Hm... let's keep thinking!,True,0.08800000000000001,3,True,8,8,0,10,"11-21-2020-11:29:16-PST
+"
+615,323,3,2,3,-1.,-0.25,-0.33333333,-0.7,-1.,-1.,-1.,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,3,4,2,15,"11-21-2020-11:37:02-PST
+"
+616,323,is the answer 6?,2,3,-1.,-0.25,-0.33333333,-0.7,-1.,-1.,1.,-0.66666667,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",None,0.01,2,True,3,4,2,15,"11-21-2020-11:37:02-PST
+"
+617,323,i dont think i know the ounces,4,1,-1.,-0.25,0.33333333,-0.9,-1.,-1.,1.,-0.66666667,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,3,4,2,15,"11-21-2020-11:37:02-PST
+"
+618,323,i dont think i know the length,,,-1.,-0.25,-0.33333333,-0.7,-1.,-1.,1.,-0.66666667,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,1.9589999999999996,2,True,3,4,2,15,"11-21-2020-15:38:18-PST
+"
+619,327,Hi!,,,1.,0.5,-1.,-0.9,-1.,-1.,-0.29048756,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.098,4,True,6,6,0,21,"11-22-2020-11:37:15-PST
+"
+620,330,no not helpful,0,12,-1.,0.,-1.,0.2,-1.,0.638,1.,-0.11111111,1,:),None,0.0,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+621,330,no,0,12,-1.,0.,-1.,0.2,-1.,1.,-0.06320011,-0.11111111,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+622,330,ask what,2,10,-1.,0.,-0.33333333,0.,-1.,-1.,1.,-0.11111111,2,This problem doesn’t stand a chance against us!,None,0.0,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+623,330,no,2,10,-1.,0.,-0.33333333,0.,-1.,1.,-0.06320011,-0.11111111,2,This problem doesn’t stand a chance against us!,None,0.0,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+624,330,,0,12,-1.,0.,-1.,0.2,-1.,-1.,-1.,-0.11111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+625,330,no,,,-1.,0.,-1.,0.2,-1.,1.,-0.06320011,-0.11111111,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,-0.015000000000000003,2,True,4,4,0,25,"11-22-2020-12:15:06-PST
+"
+626,331,do we use multiplucation or ADDITION,,,0.,-0.25,-1.,-0.4,-1.,-1.,1.,0.,0,You can move your mouse close to the box to turn it into a chocolate!,True,-8,3,False,3,4,1,27,"11-22-2020-18:22:06-PST
+"
+627,334, I can't find if the answer 66 ,,,-1.,-0.75,0.,-0.4,-1.,-1.,1.,-0.88888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,6.098,2,True,1,7,6,11,"11-22-2020-18:59:32-PST
+"
+628,318,how many,0,9,0.,-0.5,-1.,-0.1,-1.,-1.,1.,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,2,6,4,13,"11-23-2020-11:38:49-PST
+"
+629,318,tell me the answer xDDD,,,0.,-0.5,-1.,-0.1,-1.,-1.,1.,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,4.085,3,True,2,6,4,13,"11-23-2020-11:38:49-PST
+"
+630,350,cool,3,1,0.,0.,0.,-0.9,1.,-1.,-0.14831369,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,4,2,1,15,"11-23-2020-13:49:44-PST
+"
+631,350,how many ounces does it weigh,,,0.,0.,0.33333333,-0.8,-1.,-1.,1.,-0.66666667,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.9849999999999999,3,True,4,2,1,15,"11-23-2020-14:07:05-PST
+"
+632,351,I need to know what 15x18 is.,3,6,0.,-0.25,0.,-0.4,-1.,-1.,1.,-0.77777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,3,7,4,13,"11-23-2020-14:15:49-PST
+"
+633,351,I think 720 is the answer,3,6,0.,-0.25,0.,-0.4,-1.,-1.,1.,-0.77777778,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,3,True,3,7,4,13,"11-23-2020-14:15:49-PST
+"
+634,351,I don't get the equation.,3,6,0.,-0.25,0.,-0.4,-1.,-1.,1.,-0.77777778,1,:),None,0.0,3,True,3,7,4,13,"11-23-2020-14:15:49-PST
+"
+635,351,can you help me with the equation?,,,0.,-0.25,0.,-0.4,-0.38,-1.,1.,-0.77777778,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,3.972,3,True,3,7,4,13,"11-24-2020-09:26:36-PST
+"
+636,360,"I've measured the box, I think it's 9.",,,0.,0.,-0.33333333,-0.6,-1.,-1.,-0.02507096,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,3.098,3,True,4,7,3,15,"11-24-2020-10:22:31-PST
+"
+637,359,Have any estimations?,0,2,1.,0.,-1.,-0.8,-1.,-1.,-0.07262983,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,4,8,4,21,"11-24-2020-10:26:35-PST
+"
+638,359,What is the length?,,,1.,0.,-0.33333333,-0.7,-1.,-1.,1.,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,3.9850000000000003,4,True,4,8,4,21,"11-24-2020-10:26:35-PST
+"
+639,358,ok,0,2,1.,-0.5,-1.,-0.8,1.,-1.,-0.1063473,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+640,358,i´m kind of stuck,0,2,1.,-0.5,-1.,-0.8,-1.,-0.134,1.,-0.55555556,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+641,358,ok thank you sid,0,2,1.,-0.5,-1.,-0.8,0.402,-1.,-0.03507275,-0.55555556,3,Hm... let's keep thinking!,True,0.1,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+642,358,,3,11,1.,-0.5,0.,0.1,-1.,-1.,-1.,-0.55555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+643,358, I need help,3,11,1.,-0.5,0.,0.1,0.46,-1.,1.,-0.55555556,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+644,358, Thanks that was kind of helpfull,3,11,1.,-0.5,0.,0.1,-0.266,-1.,-0.04613036,-0.55555556,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+645,358,This question is just to hard!,3,11,1.,-0.5,0.,0.1,-1.,-0.494,1.,-0.55555556,0,Think about how to calculate volume with multiplication.,None,0.01,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+646,358,ok?,4,1,1.,-0.5,0.33333333,-0.9,1.,-1.,-0.1063473,-0.55555556,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",True,0.11,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+647,358,ok thanks,5,1,1.,-0.5,0.66666667,-0.9,1.,-1.,-0.1063473,-0.55555556,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,0.01,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+648,358,ok.now it is talking about the ounces to it,4,1,1.,-0.5,0.33333333,-0.9,-1.,-1.,-0.05601578,-0.55555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+649,358, ok thanks,,,1.,-0.5,0.33333333,-0.9,1.,-1.,-0.1063473,-0.55555556,0,Weight of the box of chocolates,None,0.8809999999999999,4,True,2,3,1,17,"11-24-2020-10:29:09-PST
+"
+650,357,I need help explaning the problem.,3,107,-1.,-0.25,0.,9.7,-0.358,-0.358,1.,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+651,357,I did it.! yay,0,6,-1.,-0.25,-1.,-0.4,0.298,-1.,-0.03631976,-0.5,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+652,357,thank you cat bug,0,6,-1.,-0.25,-1.,-0.4,-0.09,-1.,-0.03507275,-0.5,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+653,357,ok,0,6,-1.,-0.25,-1.,-0.4,1.,-1.,-0.1063473,-0.5,2,You’re doing a great job so far. Just keep trying!,None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+654,357,cat bug,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-0.24482689,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+655,357,I am stuck.,3,107,-1.,-0.25,0.,9.7,-1.,0.334,1.,-0.5,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+656,357,oh,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-0.20982539,-0.5,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+657,357,ok,2,5,-1.,-0.25,-0.33333333,-0.5,1.,-1.,-0.1063473,-0.5,3,Hm... let's keep thinking!,True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+658,357,cat bug,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-0.24482689,-0.5,2,We need to solve this problem to stop the natural disaster. I believe in you!,None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+659,357,I don't get it.!,3,107,-1.,-0.25,0.,9.7,-1.,-1.,1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+660,357,yes,3,107,-1.,-0.25,0.,9.7,1.,-1.,-0.08166112,-0.5,3,I think we can use an equation! Think about what equation you can use to solve this problem.,True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+661,357,I need help,3,107,-1.,-0.25,0.,9.7,0.46,-1.,1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+662,357,ok,3,107,-1.,-0.25,0.,9.7,1.,-1.,-0.1063473,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+663,357,yes,3,107,-1.,-0.25,0.,9.7,1.,-1.,-0.08166112,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+664,357,cat bug,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-0.24482689,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+665,357,I need help,3,107,-1.,-0.25,0.,9.7,0.46,-1.,1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+666,357,I need help. and you are helpful,3,107,-1.,-0.25,0.,9.7,0.158,-1.,1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+667,357,no,3,107,-1.,-0.25,0.,9.7,-1.,1.,-0.06320011,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+668,357,,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-1.,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+669,357,yes,3,107,-1.,-0.25,0.,9.7,1.,-1.,-0.08166112,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+670,357,problem,3,107,-1.,-0.25,0.,9.7,-1.,1.,-0.08766793,-0.5,3,I think we can use an equation! Think about what equation you can use to solve this problem.,None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+671,357,3+5+6=11,3,107,-1.,-0.25,0.,9.7,-1.,-1.,-1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+672,357,help,3,107,-1.,-0.25,0.,9.7,1.,-1.,1.,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+673,357,problem,3,107,-1.,-0.25,0.,9.7,-1.,1.,-0.08766793,-0.5,1,:),True,0.1,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+674,357,I need some pointers.,3,107,-1.,-0.25,0.,9.7,-1.,-1.,1.,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+675,357, I need help with the problem.,3,107,-1.,-0.25,0.,9.7,-0.358,-0.358,1.,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+676,357,I need a hint.,3,107,-1.,-0.25,0.,9.7,-1.,-1.,1.,-0.5,1,:),None,0.0,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+677,357,I need help.,,,-1.,-0.25,0.,9.7,0.46,-1.,1.,-0.5,1,:),None,-0.051000000000000004,2,True,3,0,0,18,"11-24-2020-11:17:57-PST
+"
+678,364,are u a hacker,1,2,1.,1.,-0.66666667,-0.8,-1.,-1.,-0.1016057,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,8,8,0,12,"11-24-2020-12:56:40-PST
+"
+679,364,wut,,,1.,1.,-0.66666667,-0.8,-1.,-1.,-0.40358419,-0.83333333,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,-0.015000000000000003,4,True,8,8,0,12,"11-24-2020-12:56:40-PST
+"
+680,378,I don't get it,0,6,1.,-0.25,-1.,-0.4,-1.,-1.,1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+681,378,im stuck,0,6,1.,-0.25,-1.,-0.4,-1.,0.334,1.,-0.38888889,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+682,378,Im stuck :(,1,4,1.,-0.25,-0.66666667,-0.6,-1.,0.662,1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+683,378,help,1,4,1.,-0.25,-0.66666667,-0.6,1.,-1.,1.,-0.38888889,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+684,378,Hmm,2,6,1.,-0.25,-0.33333333,-0.4,-1.,-1.,-0.24409562,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+685,378,ok,2,6,1.,-0.25,-0.33333333,-0.4,1.,-1.,-0.1063473,-0.38888889,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+686,378,I need help,0,6,1.,-0.25,-1.,-0.4,0.46,-1.,1.,-0.38888889,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+687,378,I don't get it,1,4,1.,-0.25,-0.66666667,-0.6,-1.,-1.,1.,-0.38888889,0,"By sliding the chocolate along the width of the box and using the chocolate as a reference, you will find that the width fits 5 chocolates.",None,0.01,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+688,378,I need help,,,1.,-0.25,-0.33333333,-0.4,0.46,-1.,1.,-0.38888889,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",None,-0.10600000000000001,4,True,3,2,0,20,"11-24-2020-13:00:12-PST
+"
+689,366,can you help me,0,1,0.,-0.75,-1.,-0.9,-0.052,-1.,1.,0.,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+690,366,hey,2,1,0.,-0.75,-0.33333333,-0.9,-1.,-1.,-0.1545796,0.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+691,366,bruh i know that,2,1,0.,-0.75,-0.33333333,-0.9,-1.,-1.,1.,0.,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+692,366,OK!,2,1,0.,-0.75,-0.33333333,-0.9,1.,-1.,-0.1063473,0.,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+693,366,ok thanks,3,2,0.,-0.75,0.,-0.8,1.,-1.,-0.1063473,0.,1,:),True,0.1,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+694,366,oh no,3,2,0.,-0.75,0.,-0.8,-1.,0.376,-0.06320011,0.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+695,366,ok.. and?,3,2,0.,-0.75,0.,-0.8,-1.,-1.,-0.1063473,0.,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+696,366,and then?,3,2,0.,-0.75,0.,-0.8,-1.,-1.,-0.12619233,0.,0,Think about how to calculate volume with multiplication.,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+697,366,help plz,3,2,0.,-0.75,0.,-0.8,1.,-1.,1.,0.,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+698,366,hmm,3,2,0.,-0.75,0.,-0.8,-1.,-1.,-0.24409562,0.,0,Area = Length x Width = 6 x 5 = 30,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+699,366,ohhh,3,2,0.,-0.75,0.,-0.8,-1.,-1.,-0.26974302,0.,0,Putting them together:,None,0.01,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+700,366,thanks,,,0.,-0.75,0.,-0.8,1.,-1.,-0.15282053,0.,0,You have seen all the hints. Try your best to answer the question!,None,-0.132,3,True,1,0,0,27,"11-24-2020-13:56:43-PST
+"
+701,367,can you help me,1,1,1.,-0.25,-0.66666667,-0.9,-0.052,-1.,1.,0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,3,3,3,28,"11-24-2020-14:23:40-PST
+"
+702,367,ok,2,3,1.,-0.25,-0.33333333,-0.7,1.,-1.,-0.1063473,0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,3,3,3,28,"11-24-2020-14:23:40-PST
+"
+703,367,can you give me the answer,,,1.,-0.25,0.33333333,-0.1,-1.,-1.,1.,0.05555556,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,3.0719999999999996,4,True,3,3,3,28,"11-24-2020-15:55:03-PST
+"
+704,377,I need help. Can you help me?,3,4,-1.,0.,0.,-0.6,0.148,-1.,1.,-0.38888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,4,6,2,20,"11-24-2020-17:26:42-PST
+"
+705,377,Not very helpful. Can you give me the equation that leads me to the answer,3,4,-1.,0.,0.,-0.6,-1.,-0.692,1.,-0.38888889,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,4,6,2,20,"11-24-2020-17:26:42-PST
+"
+706,377,With numbers please,,,-1.,0.,0.,-0.6,0.07,-1.,-0.10849452,-0.38888889,1,:),None,1.9749999999999999,2,True,4,6,2,20,"11-24-2020-20:20:33-PST
+"
+707,341,i don't know the answer,4,3,-1.,0.,0.33333333,-0.7,-1.,-1.,1.,-0.11111111,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,4,5,1,25,"11-25-2020-06:19:09-PST
+"
+708,341,we divide/,,,-1.,0.,0.33333333,-0.7,-1.,-1.,-0.03161268,-0.11111111,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.9849999999999999,2,True,4,5,1,25,"11-25-2020-06:19:09-PST
+"
+709,382,hi,0,10,1.,0.,-1.,0.,-1.,-1.,-0.29048756,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+710,382,okay,0,10,1.,0.,-1.,0.,1.,-1.,-0.15501975,-0.33333333,3,Hm... let's keep thinking!,True,0.1,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+711,382,i need help,0,10,1.,0.,-1.,0.,0.46,-1.,1.,-0.33333333,2,"You’ve just about got it. Don’t give up, yet!",True,0.1,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+712,382,,0,10,1.,0.,-1.,0.,-1.,-1.,-1.,-0.33333333,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+713,382,3,0,10,1.,0.,-1.,0.,-1.,-1.,-1.,-0.33333333,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",True,0.11,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+714,382,next,0,10,1.,0.,-1.,0.,-1.,-1.,-0.14410816,-0.33333333,0,You have seen all the hints. Try your best to answer the question!,None,0.01,4,True,4,7,3,21,"11-25-2020-16:19:38-PST
+"
+715,382,okay,,,1.,0.,0.,-0.8,1.,-1.,-0.15501975,-0.33333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,2.9459999999999997,4,True,4,7,3,21,"11-25-2020-16:49:43-PST
+"
+716,383,i dont know thevanswer,0,2,1.,-0.25,-1.,-0.8,-1.,-1.,1.,0.16666667,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+717,383,i dont know the length,2,8,1.,-0.25,-0.33333333,-0.2,-1.,-1.,1.,0.16666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+718,383,i dont know the answer,3,77,1.,-0.25,0.,6.7,-1.,-1.,1.,0.16666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+719,383,i need the answer,3,77,1.,-0.25,0.,6.7,-1.,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+720,383,i need help \,3,77,1.,-0.25,0.,6.7,0.46,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+721,383,can you help me please,3,77,1.,-0.25,0.,6.7,0.25,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+722,383, help,3,77,1.,-0.25,0.,6.7,1.,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+723,383,help,3,77,1.,-0.25,0.,6.7,1.,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+724,383,i need help,3,77,1.,-0.25,0.,6.7,0.46,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+725,383,i need a hint,3,77,1.,-0.25,0.,6.7,-1.,-1.,1.,0.16666667,1,:),True,0.1,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+726,383,hint,3,77,1.,-0.25,0.,6.7,-1.,-1.,1.,0.16666667,1,:),None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+727,383,no,3,77,1.,-0.25,0.,6.7,-1.,1.,-0.06320011,0.16666667,2,You’re super close! Let’s think about this a little more and try again.,None,0.0,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+728,383,hint,,,1.,-0.25,0.,6.7,-1.,-1.,1.,0.16666667,2,I know we can do this together. Keep thinking!,None,4.962000000000001,4,True,3,5,5,30,"11-25-2020-17:00:18-PST
+"
+729,385,I do not need help right now,1,3,1.,-0.5,-0.66666667,-0.7,-1.,-0.378,1.,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,2,3,1,15,"11-25-2020-17:10:26-PST
+"
+730,385,I need a hint,1,3,1.,-0.5,-0.66666667,-0.7,-1.,-1.,1.,-0.66666667,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,4,True,2,3,1,15,"11-25-2020-17:10:26-PST
+"
+731,385,I am still here,3,2,1.,-0.5,0.,-0.8,-1.,-1.,-0.03631976,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,2,3,1,15,"11-25-2020-17:10:26-PST
+"
+732,385,What does that mean,3,2,1.,-0.5,0.,-0.8,-1.,-1.,1.,-0.66666667,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,4,True,2,3,1,15,"11-25-2020-17:10:26-PST
+"
+733,385,what is the answer,,,1.,-0.5,0.,-0.8,-1.,-1.,1.,-0.66666667,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.946,4,True,2,3,1,15,"11-25-2020-17:10:26-PST
+"
+734,387,What is the hint?,2,2,1.,0.5,-0.33333333,-0.8,-1.,-1.,1.,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,6,7,1,17,"11-27-2020-09:06:49-PST
+"
+735,387,what are some pointers?,,,1.,0.5,0.,-0.9,-1.,-1.,1.,-0.55555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,1.085,4,True,6,7,1,17,"11-27-2020-09:08:58-PST
+"
+736,390,what is this song,2,1,0.,0.75,-0.33333333,-0.9,-1.,-1.,1.,-0.88888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,7,7,1,11,"11-27-2020-09:54:18-PST
+"
+737,390,what is 3 * 5 *6,3,1,0.,0.75,0.,-0.9,-1.,-1.,1.,-0.88888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,7,7,1,11,"11-27-2020-09:54:18-PST
+"
+738,390,how much do we weigh together,,,0.,0.75,0.66666667,-0.9,-1.,-1.,1.,-0.88888889,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,0.9719999999999999,3,True,7,7,1,11,"11-27-2020-09:54:18-PST
+"
+739,104,yes i am still here i dont need help at the moment ,,,0.,0.25,-1.,-0.7,-0.584,-0.652,1.,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,2.9979999999999998,3,True,5,8,3,13,"11-27-2020-10:04:56-PST
+"
+740,391,i need help,3,17,0.,0.,0.,0.7,0.46,-1.,1.,-0.5,2,The people in the village need you! Keep working hard.,None,0.0,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+741,391,what do I multiply to get the answer,3,17,0.,0.,0.,0.7,-1.,-1.,1.,-0.5,1,:),None,0.0,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+742,391,i am stuck,3,17,0.,0.,0.,0.7,-1.,0.334,1.,-0.5,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,True,0.1,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+743,391,i am confused,3,17,0.,0.,0.,0.7,-1.,0.394,1.,-0.5,1,:),None,0.0,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+744,391,how do I multiply the numbers,3,17,0.,0.,0.,0.7,-1.,-1.,1.,-0.5,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+745,391,i dont understand how to add the sides,,,0.,0.,0.,0.7,-1.,-1.,1.,-0.5,1,:),None,2.988,3,True,4,6,3,18,"11-27-2020-11:00:26-PST
+"
+746,388,I need more help.,0,4,-1.,0.,-1.,-0.6,0.198,-1.,1.,-0.22222222,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",True,0.11,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+747,388,Thanks,0,4,-1.,0.,-1.,-0.6,1.,-1.,-0.15282053,-0.22222222,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,True,0.1,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+748,388,I'm not doing to good.,3,10,-1.,0.,0.,0.,-1.,-0.248,-0.03631976,-0.22222222,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+749,388,I need help.,3,10,-1.,0.,0.,0.,0.46,-1.,1.,-0.22222222,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+750,388,I will put the choclets in the box then cont them.,0,4,-1.,0.,-1.,-0.6,-1.,-1.,-0.03631976,-0.22222222,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+751,388,I need some pointers please.,0,4,-1.,0.,-1.,-0.6,-0.132,-1.,1.,-0.22222222,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+752,388,I need some help.,2,3,-1.,0.,-0.33333333,-0.7,0.148,-1.,1.,-0.22222222,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+753,388,18 + 18 + 15 + 15 =66,3,10,-1.,0.,0.,0.,-1.,-1.,-1.,-0.22222222,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+754,388,I'm doing the math on my wight broad.,3,10,-1.,0.,0.,0.,-1.,-1.,-0.03631976,-0.22222222,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+755,388,How am I ever going to do this.,3,10,-1.,0.,0.,0.,-1.,-1.,1.,-0.22222222,0,Think about how to calculate volume with multiplication.,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+756,388,I need help.,3,10,-1.,0.,0.,0.,0.46,-1.,1.,-0.22222222,1,:),None,0.0,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+757,388,I need to get unstuck.,3,10,-1.,0.,0.,0.,-1.,-1.,-0.03631976,-0.22222222,0,Area = Length x Width = 6 x 5 = 30,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+758,388,THANK YOU SO MUCH!,3,10,-1.,0.,0.,0.,-0.036,-1.,-0.03305731,-0.22222222,0,Putting them together:,None,0.01,2,True,4,4,0,23,"11-27-2020-11:36:31-PST
+"
+759,388,Im still here,,,-1.,0.,0.66666667,-0.9,-1.,-1.,-0.0591944,-0.22222222,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,-0.129,2,True,4,4,0,23,"11-27-2020-14:15:39-PST
+"
+760,393, what is 30 x 3,3,3,0.,-0.25,0.,-0.7,-1.,-1.,1.,-0.66666667,1,:),None,0.0,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+761,393,wot is the height,0,2,0.,-0.25,-1.,-0.8,-1.,-1.,-0.11777015,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+762,393,i ned help,0,2,0.,-0.25,-1.,-0.8,0.46,-1.,1.,-0.66666667,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+763,393,help,2,3,0.,-0.25,-0.33333333,-0.7,1.,-1.,1.,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+764,393,wot do i do,3,3,0.,-0.25,0.,-0.7,-1.,-1.,1.,-0.66666667,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+765,393,o90,,,0.,-0.25,0.33333333,-0.8,-1.,-1.,-1.,-0.66666667,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,2.9459999999999997,3,True,3,5,3,15,"11-27-2020-14:22:29-PST
+"
+766,395,ok,3,9,-1.,-0.25,0.,-0.1,1.,-1.,-0.1063473,-0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+767,395,how big is a chocolate,3,9,-1.,-0.25,0.,-0.1,-1.,-1.,1.,-0.61111111,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+768,395,how do you find the total,3,9,-1.,-0.25,0.,-0.1,-1.,-1.,1.,-0.61111111,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+769,395,what's the answer,3,9,-1.,-0.25,0.,-0.1,-1.,-1.,1.,-0.61111111,2,You’re super close! Let’s think about this a little more and try again.,True,0.1,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+770,395,i,3,9,-1.,-0.25,0.,-0.1,-1.,-1.,-0.03631976,-0.61111111,0,Think about how to calculate volume with multiplication.,None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+771,395,I need the chocolates to help figure,3,9,-1.,-0.25,0.,-0.1,-0.298,-1.,1.,-0.61111111,0,Area = Length x Width = 6 x 5 = 30,None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+772,395,what's 90,4,3,-1.,-0.25,0.33333333,-0.7,-1.,-1.,1.,-0.61111111,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+773,395,what,4,3,-1.,-0.25,0.33333333,-0.7,-1.,-1.,1.,-0.61111111,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",True,0.11,2,True,3,3,1,16,"11-27-2020-14:55:34-PST
+"
+774,395,i,,,-1.,-0.25,0.33333333,-0.7,-1.,-1.,-0.03631976,-0.61111111,0,Weight of the box of chocolates,None,0.9069999999999999,2,True,3,3,1,16,"11-27-2020-14:56:06-PST
+"
+775,398,I am stuck,0,2,-1.,-0.25,-1.,-0.8,-1.,0.334,1.,-0.27777778,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+776,398,what is next,0,2,-1.,-0.25,-1.,-0.8,-1.,-1.,1.,-0.27777778,2,You’re doing a great job so far. Just keep trying!,True,0.1,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+777,398,I got it,0,2,-1.,-0.25,-1.,-0.8,-1.,-1.,-0.03631976,-0.27777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+778,398,I need help,4,5,-1.,-0.25,0.33333333,-0.5,0.46,-1.,1.,-0.27777778,2,"The sooner we finish, the sooner we can cross the river on that boat! Let’s get to it!",None,0.0,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+779,398,I don't get it,4,5,-1.,-0.25,0.33333333,-0.5,-1.,-1.,1.,-0.27777778,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+780,398,90%2?,4,5,-1.,-0.25,0.33333333,-0.5,-1.,-1.,-1.,-0.27777778,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.01,2,True,3,2,1,22,"11-27-2020-15:28:48-PST
+"
+781,398,ok thanks,,,-1.,-0.25,0.33333333,-0.5,1.,-1.,-0.1063473,-0.27777778,0,Weight of the box of chocolates,None,0.946,2,True,3,2,1,22,"11-27-2020-16:45:05-PST
+"
+782,404,i need help,3,42,0.,-0.5,0.,3.2,0.46,-1.,1.,0.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+783,404,*I,3,42,0.,-0.5,0.,3.2,-1.,-1.,-0.03631976,0.,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+784,404,oof,3,42,0.,-0.5,0.,3.2,-1.,-1.,-0.3258577,0.,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,None,0.0,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+785,404,help,3,42,0.,-0.5,0.,3.2,1.,-1.,1.,0.,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+786,404,okay so uh,0,3,0.,-0.5,-1.,-0.7,-0.026,-1.,-0.03305731,0.,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+787,404,okay,,,0.,-0.5,-1.,-0.7,1.,-1.,-0.15501975,0.,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,5.946,3,True,2,8,6,27,"11-27-2020-18:04:29-PST
+"
+788,365,Okay,,,1.,1.,0.,-0.8,1.,-1.,-0.15501975,-0.33333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-0.0020000000000000018,4,True,8,8,0,21,"11-28-2020-14:41:51-PST
+"
+789,410,poop,1,1,-1.,0.,-0.66666667,-0.9,-1.,-1.,-0.35037959,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+790,410,you suck,2,2,-1.,0.,-0.33333333,-0.8,-1.,0.488,-0.03507275,-0.77777778,1,:),None,0.0,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+791,410,:(,2,2,-1.,0.,-0.33333333,-0.8,-1.,1.,-1.,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+792,410,i confused,3,4,-1.,0.,0.,-0.6,-1.,1.,1.,-0.77777778,1,:),True,0.1,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+793,410,help me please,3,4,-1.,0.,0.,-0.6,0.666,-1.,1.,-0.77777778,1,:),None,0.0,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+794,410,sssssssssssss,3,4,-1.,0.,0.,-0.6,-1.,-1.,-1.,-0.77777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+795,410,s,3,4,-1.,0.,0.,-0.6,-1.,-1.,-0.25346546,-0.77777778,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+796,410,s,3,4,-1.,0.,0.,-0.6,-1.,-1.,-0.25346546,-0.77777778,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+797,410,s,,,-1.,0.,0.,-0.6,-1.,-1.,-0.25346546,-0.77777778,0,Think about how to calculate volume with multiplication.,None,2.933,2,True,4,7,3,13,"11-28-2020-15:36:06-PST
+"
+798,419,30,3,7,1.,-0.25,0.,-0.3,-1.,-1.,-1.,-0.72222222,0,Think about how to calculate volume with multiplication.,True,0.11,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+799,419,thanks everest,4,2,1.,-0.25,0.33333333,-0.8,0.488,-1.,-0.15282053,-0.72222222,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",True,0.11,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+800,419,ok,3,7,1.,-0.25,0.,-0.3,1.,-1.,-0.1063473,-0.72222222,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+801,419,i think i am good,3,7,1.,-0.25,0.,-0.3,0.184,-1.,-0.02507096,-0.72222222,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+802,419,do i mitiply,3,7,1.,-0.25,0.,-0.3,-1.,-1.,1.,-0.72222222,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",True,0.11,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+803,419,x,3,7,1.,-0.25,0.,-0.3,-1.,-1.,-0.3230505,-0.72222222,3,"Think about approaching this problem using multiplication. If we find the area of the base, that’ll help us get closer!",True,0.1,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+804,419,help,,,1.,-0.25,0.33333333,-0.8,1.,-1.,1.,-0.72222222,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,3.033,4,True,3,6,3,14,"11-29-2020-15:52:29-PST
+"
+805,415,i am confused,0,53,0.,-0.5,-1.,4.3,-1.,0.394,1.,-0.5,1,:),True,0.1,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+806,415,what is the height?,0,53,0.,-0.5,-1.,4.3,-1.,-1.,1.,-0.5,1,:),None,0.0,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+807,415,how many chocklates do you think will fit,0,53,0.,-0.5,-1.,4.3,-0.474,-1.,1.,-0.5,1,:),True,0.1,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+808,415,I need some help,0,53,0.,-0.5,-1.,4.3,0.148,-1.,1.,-0.5,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+809,415,i think,1,6,0.,-0.5,-0.66666667,-0.4,-1.,-1.,-0.02507096,-0.5,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+810,415,I confused how i gonna find the answer,3,52,0.,-0.5,0.,4.2,-1.,-0.37,1.,-0.5,1,:),None,0.0,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+811,415,i need a hint,3,52,0.,-0.5,0.,4.2,-1.,-1.,1.,-0.5,1,:),None,0.0,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+812,415,i am stuck,3,52,0.,-0.5,0.,4.2,-1.,0.334,1.,-0.5,1,:),None,0.0,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+813,415,the answer is 14,3,52,0.,-0.5,0.,4.2,-1.,-1.,1.,-0.5,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+814,415,should i add?,,,0.,-0.5,0.,4.2,-1.,-1.,-0.03631976,-0.5,1,:),None,-0.038000000000000006,3,True,2,1,0,18,"11-29-2020-16:25:22-PST
+"
+815,422,can you help me?,2,2,-1.,-0.25,-0.33333333,-0.8,-0.052,-1.,1.,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,3,6,3,20,"11-29-2020-17:07:26-PST
+"
+816,422,i am thinking,4,1,-1.,-0.25,0.33333333,-0.9,-1.,-1.,-0.03631976,-0.38888889,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,2,True,3,6,3,20,"11-29-2020-17:07:26-PST
+"
+817,422,how  much do we way?,,,-1.,-0.25,0.66666667,-0.9,-1.,-1.,1.,-0.38888889,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",True,3.0719999999999996,2,True,3,6,3,20,"11-29-2020-18:39:13-PST
+"
+818,433,ok,0,1,-1.,0.,-1.,-0.9,1.,-1.,-0.1063473,-0.16666667,3,Hm... let's keep thinking!,True,0.1,2,True,4,7,3,24,"12-01-2020-09:31:55-PST
+"
+819,433,ok,1,2,-1.,0.,-0.66666667,-0.8,1.,-1.,-0.1063473,-0.16666667,3,Hm... let's keep thinking!,True,0.1,2,True,4,7,3,24,"12-01-2020-09:31:55-PST
+"
+820,433,ok,,,-1.,0.,-1.,-0.9,1.,-1.,-0.1063473,-0.16666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,3.098,2,True,4,7,3,24,"12-01-2020-09:31:55-PST
+"
+821,435,can you place the chocolates down?,0,5,-1.,0.75,-1.,-0.5,-1.,-1.,-0.03507275,-0.5,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,7,7,0,18,"12-01-2020-10:55:36-PST
+"
+822,435,Do you also have to measure the top?,0,5,-1.,0.75,-1.,-0.5,-0.59,-1.,1.,-0.5,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,7,7,0,18,"12-01-2020-10:55:36-PST
+"
+823,435,Is it all at once or is it in sequence?,,,-1.,0.75,0.66666667,-0.9,-1.,-1.,-0.0572697,-0.5,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",True,0.072,2,True,7,7,0,18,"12-01-2020-10:55:36-PST
+"
+824,442,is the answer 21,0,3,-1.,-0.5,-1.,-0.7,-1.,-1.,1.,-0.33333333,1,:),True,0.1,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+825,442,I really don't know the answer,3,10,-1.,-0.5,0.,0.,-1.,-1.,1.,-0.33333333,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+826,442,tell me the answer,3,10,-1.,-0.5,0.,0.,-1.,-1.,1.,-0.33333333,1,:),None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+827,442,tell me the answer,3,10,-1.,-0.5,0.,0.,-1.,-1.,1.,-0.33333333,1,:),None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+828,442,I am not sure,0,3,-1.,-0.5,-1.,-0.7,-1.,-0.01,-0.03072353,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+829,442,I am not sure about the answer can you give me a hint,0,3,-1.,-0.5,-1.,-0.7,-1.,-0.672,1.,-0.33333333,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+830,442,thankyou thankyou thankyou thankyou...................,0,3,-1.,-0.5,-1.,-0.7,-1.,-1.,-0.34035965,-0.33333333,1,:),True,0.1,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+831,442,what is 3+5+6,3,10,-1.,-0.5,0.,0.,-1.,-1.,1.,-0.33333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+832,442,is it 33,3,10,-1.,-0.5,0.,0.,-1.,-1.,-0.0572697,-0.33333333,2,You’re almost there. Just keep trying!,None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+833,442,34,3,10,-1.,-0.5,0.,0.,-1.,-1.,-1.,-0.33333333,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",True,0.11,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+834,442,90,3,10,-1.,-0.5,0.,0.,-1.,-1.,-1.,-0.33333333,1,:),None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+835,442,I don't know the answer,4,3,-1.,-0.5,0.33333333,-0.7,-1.,-1.,1.,-0.33333333,2,"You’re doing a great job. If we keep working like this, we’ll be done in no time!",None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+836,442,give me a hint,4,3,-1.,-0.5,0.33333333,-0.7,-1.,-1.,1.,-0.33333333,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+837,442,help,4,3,-1.,-0.5,0.33333333,-0.7,1.,-1.,1.,-0.33333333,2,You’re super close! Let’s think about this a little more and try again.,None,0.0,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+838,442,180,4,3,-1.,-0.5,0.33333333,-0.7,-1.,-1.,-1.,-0.33333333,0,Weight of the box of chocolates,None,0.01,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+839,442,thankyou for helping I will give you a choclate,4,3,-1.,-0.5,0.33333333,-0.7,-0.464,-1.,-0.03507275,-0.33333333,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+840,442,45,,,-1.,-0.5,0.33333333,-0.7,-1.,-1.,-1.,-0.33333333,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",True,-0.006000000000000005,2,True,2,2,0,21,"12-01-2020-13:22:57-PST
+"
+841,427,Hi,,,1.,-0.5,0.,-0.9,-1.,-1.,-0.29048756,-0.5,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,1.098,4,True,2,2,1,18,"12-01-2020-13:57:24-PST
+"
+842,428,i wat coclole to :(\,0,1,0.,0.,-1.,-0.9,-1.,-1.,-0.03631976,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+843,428,hi,2,2,0.,0.,-0.33333333,-0.8,-1.,-1.,-0.29048756,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+844,428,hi,2,2,0.,0.,-0.33333333,-0.8,-1.,-1.,-0.29048756,-0.77777778,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+845,428,hi,2,2,0.,0.,-0.33333333,-0.8,-1.,-1.,-0.29048756,-0.77777778,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",True,0.11,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+846,428,hi,2,2,0.,0.,-0.33333333,-0.8,-1.,-1.,-0.29048756,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+847,428,mmmmmmm,3,45,0.,0.,0.,3.5,-1.,-1.,-1.,-0.77777778,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+848,428,can you help,3,45,0.,0.,0.,3.5,0.148,-1.,1.,-0.77777778,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+849,428,3+5+6 ,3,45,0.,0.,0.,3.5,-1.,-1.,-1.,-0.77777778,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+850,428,ok,3,45,0.,0.,0.,3.5,1.,-1.,-0.1063473,-0.77777778,3,Think about how you would solve this problem if you knew how many chocolates could fit at just the base of the box. That may help!,None,0.0,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+851,428,,4,2,0.,0.,0.33333333,-0.8,-1.,-1.,-1.,-0.77777778,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+852,428,1800,,,0.,0.,0.33333333,-0.8,-1.,-1.,-1.,-0.77777778,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,-0.11900000000000001,3,True,4,4,0,13,"12-01-2020-14:02:34-PST
+"
+853,456,WHATS THE HEIGHT,0,3,1.,-0.25,-1.,-0.7,-1.,-1.,-0.13810436,0.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,4,2,27,"12-01-2020-14:56:11-PST
+"
+854,456,whatttttttttttttt,2,2,1.,-0.25,-0.33333333,-0.8,-1.,-1.,-1.,0.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,4,2,27,"12-01-2020-14:56:11-PST
+"
+855,456,aaaaa,2,2,1.,-0.25,-0.33333333,-0.8,-1.,-1.,-0.44872861,0.,0,Move your mouse along the length to count how many chocolates would fit along the length.,None,0.01,4,True,3,4,2,27,"12-01-2020-14:56:11-PST
+"
+856,456,i dont like u,2,2,1.,-0.25,-0.33333333,-0.8,-1.,0.356,1.,0.,0,"By sliding the chocolate along the length of the box and using the chocolate as a reference, you will find that the length fits 6 chocolates",True,0.11,4,True,3,4,2,27,"12-01-2020-14:56:11-PST
+"
+857,456,okkkkkkkkkkkkkkkkkk,3,3,1.,-0.25,0.,-0.7,-1.,-1.,-1.,0.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,3,4,2,27,"12-01-2020-14:56:11-PST
+"
+858,456,how much do you way,,,1.,-0.25,0.66666667,-0.9,-1.,-1.,1.,0.,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,1.9329999999999996,4,True,3,4,2,27,"12-01-2020-15:34:51-PST
+"
+859,430,ok,3,18,1.,-0.75,0.,0.8,1.,-1.,-0.1063473,0.55555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+860,430,I need a hint,3,18,1.,-0.75,0.,0.8,-1.,-1.,1.,0.55555556,2,I’m so glad you’re here to help. I know you can solve this problem!,None,0.0,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+861,430,I'm doing good.,2,3,1.,-0.75,-0.33333333,-0.7,0.184,-1.,-0.03631976,0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+862,430,im stuck,3,18,1.,-0.75,0.,0.8,-1.,0.334,1.,0.55555556,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+863,430,"i""m stuck",3,18,1.,-0.75,0.,0.8,-1.,0.334,1.,0.55555556,2,You’re doing a great job so far. Just keep trying!,None,0.0,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+864,430, it,,,1.,-0.75,0.,0.8,-1.,-1.,-0.0572697,0.55555556,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",True,2.0589999999999997,4,True,1,3,2,37,"12-01-2020-15:36:56-PST
+"
+865,457,HELP,3,6,1.,-0.5,0.,-0.4,1.,-1.,1.,-0.05555556,2,"You’ve just about got it. Don’t give up, yet!",None,0.0,4,False,2,0,0,26,"12-01-2020-15:49:45-PST
+"
+866,457,whats the ansewr,1,6,1.,-0.5,-0.66666667,-0.4,-1.,-1.,-0.13810436,-0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,False,2,0,0,26,"12-01-2020-15:49:45-PST
+"
+867,457,thanks,1,6,1.,-0.5,-0.66666667,-0.4,1.,-1.,-0.15282053,-0.05555556,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,4,False,2,0,0,26,"12-01-2020-15:49:45-PST
+"
+868,457,help please,,,1.,-0.5,0.,-0.4,1.,-1.,1.,-0.05555556,1,:),True,-8,4,False,2,0,0,26,"12-01-2020-16:25:25-PST
+"
+869,436,okay,0,1,-1.,1.,-1.,-0.9,1.,-1.,-0.15501975,-0.94444444,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,8,8,0,10,"12-01-2020-16:25:49-PST
+"
+870,436,i cant turn it into chocolates,0,1,-1.,1.,-1.,-0.9,-1.,-1.,-0.03631976,-0.94444444,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,2,True,8,8,0,10,"12-01-2020-16:25:49-PST
+"
+871,436,i can't turn it to chocolates,,,-1.,1.,-1.,-0.9,-1.,-1.,-0.02213507,-0.94444444,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,-0.028000000000000008,2,True,8,8,0,10,"12-01-2020-16:54:54-PST
+"
+872,411,yes,0,13,0.,-0.5,-1.,0.3,1.,-1.,-0.08166112,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,2,3,1,17,"12-01-2020-17:24:05-PST
+"
+873,411,i don't now,0,13,0.,-0.5,-1.,0.3,-1.,-1.,1.,-0.55555556,1,:),True,0.1,3,True,2,3,1,17,"12-01-2020-17:24:05-PST
+"
+874,411,I don',3,2,0.,-0.5,0.,-0.8,-1.,-1.,-0.03631976,-0.55555556,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,3,True,2,3,1,17,"12-01-2020-17:24:05-PST
+"
+875,411,what to do?,3,2,0.,-0.5,0.,-0.8,-1.,-1.,1.,-0.55555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,2,3,1,17,"12-01-2020-17:24:05-PST
+"
+876,411,I don't understand,,,0.,-0.5,0.,-0.8,-1.,-1.,1.,-0.55555556,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.9589999999999999,3,True,2,3,1,17,"12-01-2020-19:44:07-PST
+"
+877,459,i cant figyour it out,0,1,-1.,-0.75,-1.,-0.9,-1.,-1.,-0.03631976,-1.,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+878,459,i need help scrach,3,50,-1.,-0.75,0.,4.,0.148,-1.,1.,-1.,1,:),True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+879,459,are you going to help,3,50,-1.,-0.75,0.,4.,-0.194,-1.,1.,-1.,1,:),True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+880,459,;[,3,50,-1.,-0.75,0.,4.,-1.,-1.,-1.,-1.,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+881,459,i need more help its realy hard,3,50,-1.,-0.75,0.,4.,-0.286,-0.666,1.,-1.,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+882,459,i need help scrach,3,50,-1.,-0.75,0.,4.,0.148,-1.,1.,-1.,1,:),True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+883,459,help or im leaving,3,50,-1.,-0.75,0.,4.,-0.052,-1.,1.,-1.,1,:),True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+884,459,stop with the smily facyes dood,3,50,-1.,-0.75,0.,4.,-1.,-0.388,-0.10849452,-1.,1,:),True,0.1,2,False,1,2,2,9,"12-02-2020-10:06:28-PST
+"
+885,459,please help,,,-1.,-0.75,0.,4.,1.,-1.,1.,-1.,1,:),True,-8,2,False,1,2,2,9,"12-02-2020-17:18:32-PST
+"
+886,441,can you help me,0,17,0.,-0.5,-1.,0.7,-0.052,-1.,1.,-0.83333333,1,:),None,0.0,3,True,2,0,0,12,"12-02-2020-17:44:32-PST
+"
+887,441,please,0,17,0.,-0.5,-1.,0.7,1.,-1.,-0.14122125,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,2,0,0,12,"12-02-2020-17:44:32-PST
+"
+888,441,what do you think the he,0,17,0.,-0.5,-1.,0.7,-1.,-1.,1.,-0.83333333,1,:),True,0.1,3,True,2,0,0,12,"12-02-2020-17:44:32-PST
+"
+889,441,What is the right answer for the estiment ,0,17,0.,-0.5,-1.,0.7,-1.,-1.,1.,-0.83333333,1,:),None,0.0,3,True,2,0,0,12,"12-02-2020-17:44:32-PST
+"
+890,441,should I be multiplying this ,,,0.,-0.5,0.,-0.9,-1.,-1.,-0.03631976,-0.83333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,-0.015000000000000003,3,True,2,0,0,12,"12-02-2020-17:44:32-PST
+"
+891,448,does it ask for the box or the chocolates,,,-1.,0.,0.33333333,-0.7,-1.,-1.,-0.04235847,-0.61111111,2,You’re super close! Let’s think about this a little more and try again.,True,4.101,2,True,4,7,4,16,"12-02-2020-18:56:52-PST
+"
+892,449,ok,2,3,-1.,1.,-0.33333333,-0.7,1.,-1.,-0.1063473,-0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,8,8,0,16,"12-03-2020-08:56:36-PST
+"
+893,449,The length is a tricky one,,,-1.,1.,-0.33333333,-0.7,-1.,-0.428,-0.09364458,-0.61111111,0,Move your mouse along the length to count how many chocolates would fit along the length.,True,0.08499999999999999,2,True,8,8,0,16,"12-03-2020-08:56:36-PST
+"
+894,463,k,2,1,0.,0.,-0.33333333,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+895,463,cool,2,1,0.,0.,-0.33333333,-0.9,1.,-1.,-0.14831369,-0.38888889,0,Move your mouse along the length to count how many chocolates would fit along the length.,True,0.11,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+896,463,need help,3,1,0.,0.,0.,-0.9,0.46,-1.,1.,-0.38888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+897,463,?????????????!?!?!?!?,3,1,0.,0.,0.,-0.9,-1.,-1.,-1.,-0.38888889,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+898,463,k,3,1,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+899,463,k,3,1,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,Think about how to calculate volume with multiplication.,None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+900,463,k,3,1,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,Putting them together:,None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+901,463,k,3,1,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+902,463,k,3,1,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,Area = Length x Width = 6 x 5 = 30,None,0.01,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+903,463,k,,,0.,0.,0.,-0.9,-1.,-1.,-0.30047255,-0.38888889,0,You have seen all the hints. Try your best to answer the question!,None,-0.11900000000000001,3,True,4,3,0,20,"12-03-2020-10:35:44-PST
+"
+904,464,i need help plz,3,5,1.,-0.5,0.,-0.5,0.6,-1.,1.,-0.83333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,False,2,1,0,12,"12-03-2020-11:14:10-PST
+"
+905,464,ok,2,1,1.,-0.5,-0.33333333,-0.9,1.,-1.,-0.1063473,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,False,2,1,0,12,"12-03-2020-11:14:10-PST
+"
+906,464,i still do not get it,,,1.,-0.5,0.,-0.5,-1.,-1.,1.,-0.83333333,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,-8,4,False,2,1,0,12,"12-03-2020-11:14:10-PST
+"
+907,465, ok ,1,1,0.,-0.25,-0.66666667,-0.9,1.,-1.,-0.1063473,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+908,465," I don't understand "" Length """,2,5,0.,-0.25,-0.33333333,-0.5,-1.,-1.,1.,-0.83333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+909,465, What do I do I don't understand Length,2,5,0.,-0.25,-0.33333333,-0.5,-1.,-1.,1.,-0.83333333,1,:),None,0.0,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+910,465,nope,2,5,0.,-0.25,-0.33333333,-0.5,-1.,-1.,-0.17369124,-0.83333333,0,Move your mouse along the length to count how many chocolates would fit along the length.,True,0.11,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+911,465, Now what do I do Cyclone ?,4,4,0.,-0.25,0.33333333,-0.6,-1.,-1.,1.,-0.83333333,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,0.11,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+912,465, do I add or multiply this ,3,3,0.,-0.25,0.,-0.7,-1.,-1.,1.,-0.83333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+913,465, Thank You  so much !,,,0.,-0.25,0.33333333,-0.6,-0.036,-1.,-0.03305731,-0.83333333,0,"If you multiply the weight per chocolate with the number of chocolates, you will get how much the box of chocolates weighs.",None,0.9329999999999998,3,True,3,3,1,12,"12-03-2020-11:39:10-PST
+"
+914,505,ok,0,3,-1.,-0.75,-1.,-0.7,1.,-1.,-0.1063473,-0.38888889,3,Hm... let's keep thinking!,True,0.1,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+915,505,where is the right arrow button?,0,3,-1.,-0.75,-1.,-0.7,-1.,-1.,-0.08771972,-0.38888889,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+916,505,ok!,2,5,-1.,-0.75,-0.33333333,-0.5,1.,-1.,-0.1063473,-0.38888889,3,Hm... let's keep thinking!,True,0.1,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+917,505,Question ,3,8,-1.,-0.75,0.,-0.2,-1.,-1.,-0.03787776,-0.38888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+918,505,um,3,8,-1.,-0.75,0.,-0.2,-1.,-1.,-0.22521936,-0.38888889,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+919,505,still wrong,3,8,-1.,-0.75,0.,-0.2,-1.,0.512,-0.05607465,-0.38888889,1,:),None,0.0,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+920,505,more info by anychance,3,8,-1.,-0.75,0.,-0.2,-1.,-1.,-0.08809026,-0.38888889,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,True,0.11,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+921,505,any more?,3,8,-1.,-0.75,0.,-0.2,-1.,-1.,-0.07262983,-0.38888889,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",True,0.11,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+922,505,uhh next question any thing you can help me with,,,-1.,-0.75,0.33333333,-0.8,-0.538,-1.,1.,-0.38888889,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,2.949,2,True,1,4,3,20,"12-03-2020-15:52:50-PST
+"
+923,467,do you have an idea,1,9,0.,-0.25,-0.66666667,-0.1,-1.,-1.,1.,-0.05555556,3,Hm... let's keep thinking!,True,0.1,3,True,3,4,1,26,"12-03-2020-17:16:03-PST
+"
+924,467,I'm thinking 6,1,9,0.,-0.25,-0.66666667,-0.1,-1.,-1.,-0.03631976,-0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,3,4,1,26,"12-03-2020-17:16:03-PST
+"
+925,467,ok ,0,5,0.,-0.25,-1.,-0.5,1.,-1.,-0.1063473,-0.05555556,3,Hm... let's keep thinking!,True,0.1,3,True,3,4,1,26,"12-03-2020-17:16:03-PST
+"
+926,467,ok,2,3,0.,-0.25,-0.33333333,-0.7,1.,-1.,-0.1063473,-0.05555556,3,Hm... let's keep thinking!,True,0.1,3,True,3,4,1,26,"12-03-2020-17:16:03-PST
+"
+927,467,thanks,2,3,0.,-0.25,-0.33333333,-0.7,1.,-1.,-0.15282053,-0.05555556,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,3,4,1,26,"12-03-2020-17:16:03-PST
+"
+928,467,ok,,,0.,-0.25,-0.33333333,-0.7,1.,-1.,-0.1063473,-0.05555556,3,Hm... let's keep thinking!,True,1.075,3,True,3,4,1,26,"12-04-2020-13:25:48-PST
+"
+929,479,:),3,7,-1.,-0.25,0.,-0.3,1.,-1.,-1.,0.44444444,3,Try thinking about the concept of volume to solve this problem.,True,0.1,2,True,3,7,4,35,"12-04-2020-13:41:57-PST
+"
+930,479,can i fit 3,0,2,-1.,-0.25,-1.,-0.8,0.428,-1.,-0.03631976,0.44444444,3,Hm... let's keep thinking!,None,0.0,2,True,3,7,4,35,"12-04-2020-13:41:57-PST
+"
+931,479,i  am stuck,2,2,-1.,-0.25,-0.33333333,-0.8,-1.,0.334,1.,0.44444444,1,:),None,0.0,2,True,3,7,4,35,"12-04-2020-13:41:57-PST
+"
+932,479,what is 30 times 3,,,-1.,-0.25,0.,-0.3,-1.,-1.,1.,0.44444444,1,:),None,4.001,2,True,3,7,4,35,"12-05-2020-11:13:50-PST
+"
+933,514,help,3,3,-1.,0.,0.,-0.7,1.,-1.,1.,0.16666667,3,Try thinking about the concept of volume to solve this problem.,None,0.0,2,False,4,2,0,30,"12-05-2020-11:16:58-PST
+"
+934,514,Help,0,4,-1.,0.,-1.,-0.6,1.,-1.,1.,0.16666667,1,:),True,0.1,2,False,4,2,0,30,"12-05-2020-11:16:58-PST
+"
+935,514,im stuck,1,7,-1.,0.,-0.66666667,-0.3,-1.,0.334,1.,0.16666667,1,:),None,0.0,2,False,4,2,0,30,"12-05-2020-11:16:58-PST
+"
+936,514,can you help me,1,7,-1.,0.,-0.66666667,-0.3,-0.052,-1.,1.,0.16666667,2,You’re doing a great job so far. Just keep trying!,None,0.0,2,False,4,2,0,30,"12-05-2020-11:16:58-PST
+"
+937,514,im stuck,,,-1.,0.,0.,-0.7,-1.,0.334,1.,0.16666667,1,:),None,-8,2,False,4,2,0,30,"12-05-2020-11:28:58-PST
+"
+938,516,I do not know how to do this,,,0.,0.5,-1.,-0.3,-1.,-1.,1.,-0.55555556,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.9979999999999999,3,True,6,7,1,17,"12-05-2020-11:58:17-PST
+"
+939,517,ok,0,1,0.,0.75,-1.,-0.9,1.,-1.,-0.1063473,-0.83333333,3,Hm... let's keep thinking!,None,0.0,3,True,7,8,1,12,"12-05-2020-12:43:37-PST
+"
+940,517,I'm having fun,1,2,0.,0.75,-0.66666667,-0.8,0.246,-1.,-0.03631976,-0.83333333,3,Hm... let's keep thinking!,None,0.0,3,True,7,8,1,12,"12-05-2020-12:43:37-PST
+"
+941,517,How much do we weight together?,5,1,0.,0.75,0.66666667,-0.9,-1.,-1.,1.,-0.83333333,3,Hm... let's keep thinking!,True,0.1,3,True,7,8,1,12,"12-05-2020-12:43:37-PST
+"
+942,517,How much do I weight?,,,0.,0.75,0.66666667,-0.9,-1.,-1.,1.,-0.83333333,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,0.9979999999999999,3,True,7,8,1,12,"12-05-2020-12:43:37-PST
+"
+943,512,How many chocolates are in the box.,0,16,-1.,-0.5,-1.,0.6,-1.,-1.,1.,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,2,2,2,15,"12-05-2020-12:46:35-PST
+"
+944,512,I think we need to brainstorm ,0,16,-1.,-0.5,-1.,0.6,-1.,-1.,-0.02507096,-0.66666667,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,2,True,2,2,2,15,"12-05-2020-12:46:35-PST
+"
+945,512,Can you please give me a hint ,0,16,-1.,-0.5,-1.,0.6,-0.37,-1.,1.,-0.66666667,2,This problem doesn’t stand a chance against us!,True,0.1,2,True,2,2,2,15,"12-05-2020-12:46:35-PST
+"
+946,512,We need to brainstorm ,,,-1.,-0.5,-1.,0.6,-1.,-1.,-0.03161268,-0.66666667,1,:),True,2.075,2,True,2,2,2,15,"12-05-2020-13:37:27-PST
+"
+947,511,I am stuck,3,8,-1.,-0.5,0.,-0.2,-1.,0.334,1.,-0.61111111,1,:),True,0.1,2,True,2,1,0,16,"12-05-2020-15:53:33-PST
+"
+948,511,I don't get it,,,-1.,-0.5,0.,-0.2,-1.,-1.,1.,-0.61111111,2,You’re doing awesome! We’re so close to figuring this out and convincing the captain to let us board the boat.,True,0.101,2,True,2,1,0,16,"12-05-2020-15:53:33-PST
+"
+949,338,Can you wait for me Silly?,,,-1.,0.5,-0.33333333,-0.9,-0.64,-1.,-0.03507275,-0.16666667,0,You can move your mouse close to the box to turn it into a chocolate!,True,1.098,2,True,6,7,1,24,"12-05-2020-16:00:29-PST
+"
+950,417,"To find out the answer, do I have to times 3 by 5 and then that answer by 6?",3,2,1.,1.,0.,-0.8,-1.,-1.,1.,-0.94444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,8,7,0,10,"12-05-2020-16:31:53-PST
+"
+951,417,that didn't help me,3,2,1.,1.,0.,-0.8,-1.,-0.142,1.,-0.94444444,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,4,True,8,7,0,10,"12-05-2020-16:31:53-PST
+"
+952,417,i know,,,1.,1.,0.,-0.8,-1.,-1.,1.,-0.94444444,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,-0.028000000000000008,4,True,8,7,0,10,"12-06-2020-11:22:33-PST
+"
+953,519,ok,1,1,-1.,-0.25,-0.66666667,-0.9,1.,-1.,-0.1063473,-0.05555556,3,Hm... let's keep thinking!,True,0.1,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+954,519,I don't know this peutions answer,3,32,-1.,-0.25,0.,2.2,-1.,-1.,1.,-0.05555556,2,We’re almost there! We’re so close to getting to cross the river and saving the villagers from the fire.,True,0.1,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+955,519,can you hlp me,3,32,-1.,-0.25,0.,2.2,-1.,-1.,-0.03507275,-0.05555556,3,Try thinking about the concept of volume to solve this problem.,None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+956,519,:),3,32,-1.,-0.25,0.,2.2,1.,-1.,-1.,-0.05555556,3,Try thinking about the concept of volume to solve this problem.,None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+957,519,T_T,3,32,-1.,-0.25,0.,2.2,-1.,-1.,-1.,-0.05555556,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+958,519,help me plz,3,32,-1.,-0.25,0.,2.2,0.6,-1.,1.,-0.05555556,2,This problem doesn’t stand a chance against us!,None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+959,519,it stands a chance against me,3,32,-1.,-0.25,0.,2.2,-0.334,-1.,-0.03887937,-0.05555556,1,:),None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+960,519,HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,3,32,-1.,-0.25,0.,2.2,-1.,-1.,1.,-0.05555556,1,:),None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+961,519,I don't get it,3,32,-1.,-0.25,0.,2.2,-1.,-1.,1.,-0.05555556,1,:),None,0.0,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+962,519,:(,,,-1.,-0.25,0.,2.2,-1.,1.,-1.,-0.05555556,1,:),None,-8,2,False,3,3,1,26,"12-06-2020-11:35:58-PST
+"
+963,521,Smaller!,5,1,0.,1.,0.66666667,-0.9,-1.,-1.,-0.20563251,-0.33333333,0,"Because 180 is smaller than 200, you should be safe to board the boat with the chocolates.",None,0.01,3,True,8,8,0,21,"12-06-2020-12:16:02-PST
+"
+964,521,I think it's 18 chocolates.,0,4,0.,1.,-1.,-0.6,-1.,-1.,-0.02507096,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,8,8,0,21,"12-06-2020-12:16:02-PST
+"
+965,521,H,3,2,0.,1.,0.,-0.8,-1.,-1.,-0.36326463,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,8,8,0,21,"12-06-2020-12:16:02-PST
+"
+966,521,"They said each chocolate is 2 units, right?",3,2,0.,1.,0.,-0.8,-1.,-1.,-0.05854288,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,8,8,0,21,"12-06-2020-12:16:02-PST
+"
+967,521,Can we?,,,0.,1.,0.66666667,-0.9,-1.,-1.,-0.03161268,-0.33333333,0,"Remember that, the weight of the box of chocolates can’t be more than 200 ounces.",None,-0.028000000000000008,3,True,8,8,0,21,"12-06-2020-12:16:02-PST
+"
+968,525,i need help,0,14,1.,-1.,-1.,0.4,0.46,-1.,1.,0.16666667,3,Hm... let's keep thinking!,True,0.1,4,True,0,2,2,30,"12-06-2020-12:51:34-PST
+"
+969,525,im trying,0,14,1.,-1.,-1.,0.4,-1.,-1.,-0.06435512,0.16666667,3,Hm... let's keep thinking!,True,0.1,4,True,0,2,2,30,"12-06-2020-12:51:34-PST
+"
+970,525,i need a hint,0,14,1.,-1.,-1.,0.4,-1.,-1.,1.,0.16666667,3,Hm... let's keep thinking!,None,0.0,4,True,0,2,2,30,"12-06-2020-12:51:34-PST
+"
+971,525,i dont know,,,1.,-1.,-1.,0.4,-1.,-1.,1.,0.16666667,0,You can move your mouse close to the box to turn it into a chocolate!,None,1.9979999999999998,4,True,0,2,2,30,"12-06-2020-13:50:14-PST
+"
+972,510,Ohhh. i closed the extention i had,1,1,-1.,1.,-0.66666667,-0.9,-1.,-1.,-0.03631976,-0.27777778,1,:),True,0.1,2,True,8,7,0,22,"12-06-2020-14:03:12-PST
+"
+973,510,I don't see the choclate,0,1,-1.,1.,-1.,-0.9,-1.,-1.,1.,-0.27777778,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,2,True,8,7,0,22,"12-06-2020-14:03:12-PST
+"
+974,510,do you like among us?,,,-1.,1.,-0.66666667,-0.9,-0.23,-1.,1.,-0.27777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,-0.015000000000000003,2,True,8,7,0,22,"12-06-2020-14:03:12-PST
+"
+975,528,Ok,,,-1.,-0.5,-0.33333333,-0.8,1.,-1.,-0.1063473,-0.61111111,3,Hm... let's keep thinking!,True,6.101,2,True,2,7,6,16,"12-06-2020-16:31:19-PST
+"
+976,533,I'm stuck,0,3,-1.,0.,-1.,-0.7,-1.,0.334,1.,-0.33333333,1,:),True,0.1,2,True,4,4,0,21,"12-06-2020-16:49:14-PST
+"
+977,533,I don't get it,,,-1.,0.,-1.,-0.7,-1.,-1.,1.,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,-0.0020000000000000018,2,True,4,4,0,21,"12-06-2020-16:51:12-PST
+"
+978,532,no thx,0,1,0.,0.,-1.,-0.9,0.064,-0.064,-0.06320011,-0.33333333,0,Move your mouse along the height to count how many chocolates would fit along the height.,True,0.11,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+979,532,I need help right now!,0,1,0.,0.,-1.,-0.9,-0.002,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,True,0.1,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+980,532,STOP!!! I need help,0,1,0.,0.,-1.,-0.9,-0.28,0.014,1.,-0.33333333,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+981,532,tysm,1,4,0.,0.,-0.66666667,-0.6,-1.,-1.,-1.,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+982,532,ugh just help!,3,10,0.,0.,0.,0.,-0.204,-0.09,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,True,0.1,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+983,532,I need MORE information now please?,3,10,0.,0.,0.,0.,-0.108,-1.,-0.03631976,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+984,532,"Um, can i ask you a question?",0,1,0.,0.,-1.,-0.9,-1.,-1.,-0.03507275,-0.33333333,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+985,532,Help me please,0,1,0.,0.,-1.,-0.9,0.666,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+986,532,Huh alright.,0,1,0.,0.,-1.,-0.9,0.334,-1.,-0.20939699,-0.33333333,3,Hm... let's keep thinking!,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+987,532,i need help,0,1,0.,0.,-1.,-0.9,0.46,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+988,532,I NEED HELP PLEASE,1,4,0.,0.,-0.66666667,-0.6,0.666,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,True,0.1,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+989,532,I need help,1,4,0.,0.,-0.66666667,-0.6,0.46,-1.,1.,-0.33333333,0,Move your mouse along the width to count how many chocolates would fit along the width.,True,0.11,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+990,532,I need help,1,4,0.,0.,-0.66666667,-0.6,0.46,-1.,1.,-0.33333333,0,"By sliding the chocolate along the width of the box and using the chocolate as a reference, you will find that the width fits 5 chocolates.",None,0.01,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+991,532,i need help,3,10,0.,0.,0.,0.,0.46,-1.,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,True,0.1,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+992,532,i need help,3,10,0.,0.,0.,0.,0.46,-1.,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,True,0.1,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+993,532,I NEED HELP NOW!!!,3,10,0.,0.,0.,0.,0.282,-1.,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+994,532,Help me,3,10,0.,0.,0.,0.,0.46,-1.,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+995,532,I don't know this question.,4,4,0.,0.,0.33333333,-0.6,-1.,-1.,1.,-0.33333333,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+996,532,Help,5,1,0.,0.,0.66666667,-0.9,1.,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,None,0.0,3,True,4,4,0,21,"12-06-2020-17:08:09-PST
+"
+997,532,help,,,0.,0.,0.33333333,-0.6,1.,-1.,1.,-0.33333333,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,-0.09,3,True,4,4,0,21,"12-06-2020-18:11:59-PST
+"
+998,536,noo,2,5,-1.,-0.5,-0.33333333,-0.5,-1.,-1.,-0.39480327,-0.33333333,3,Hm... let's keep thinking!,True,0.1,2,True,2,6,5,21,"12-07-2020-13:50:17-PST
+"
+999,536,i need  help,3,15,-1.,-0.5,0.,0.5,0.46,-1.,1.,-0.33333333,3,Try thinking about the concept of volume to solve this problem.,True,0.1,2,True,2,6,5,21,"12-07-2020-13:50:17-PST
+"
+1000,536,help,3,15,-1.,-0.5,0.,0.5,1.,-1.,1.,-0.33333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,True,2,6,5,21,"12-07-2020-13:50:17-PST
+"
+1001,536,help  help,,,-1.,-0.5,0.,0.5,1.,-1.,1.,-0.33333333,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,4.988,2,True,2,6,5,21,"12-07-2020-13:50:17-PST
+"
+1002,537,help,,,0.,-0.25,0.,-0.8,1.,-1.,1.,-0.27777778,3,Try thinking about the concept of volume to solve this problem.,True,2.101,3,True,3,4,2,22,"12-07-2020-19:31:16-PST
+"
+1003,539,help,0,5,0.,0.,-1.,-0.5,1.,-1.,1.,-0.44444444,3,Hm... let's keep thinking!,True,0.1,3,True,4,5,4,19,"12-07-2020-20:03:20-PST
+"
+1004,539,help!!!!!!!!!!!!!!!!!!!!!!,0,5,0.,0.,-1.,-0.5,-1.,-1.,1.,-0.44444444,1,:),None,0.0,3,True,4,5,4,19,"12-07-2020-20:03:20-PST
+"
+1005,539,Help!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,5,0.,0.,-1.,-0.5,-1.,-1.,1.,-0.44444444,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,3,True,4,5,4,19,"12-07-2020-20:03:20-PST
+"
+1006,539,Help!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,,0.,0.,0.,-0.3,-1.,-1.,1.,-0.44444444,3,Try thinking about the concept of volume to solve this problem.,True,4.088,3,True,4,5,4,19,"12-07-2020-20:03:20-PST
+"
+1007,548,How many chocolates fit in the box,0,5,0.,1.,-1.,-0.5,-0.412,-1.,1.,0.61111111,3,Hm... let's keep thinking!,None,0.0,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1008,548,how tall is a chocolate,0,5,0.,1.,-1.,-0.5,-1.,-1.,1.,0.61111111,3,Hm... let's keep thinking!,None,0.0,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1009,548,GG,0,5,0.,1.,-1.,-0.5,1.,-1.,-0.42739412,0.61111111,3,Hm... let's keep thinking!,True,0.1,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1010,548,useless,0,5,0.,1.,-1.,-0.5,-1.,1.,-0.19628021,0.61111111,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1011,548,not helping,0,5,0.,1.,-1.,-0.5,-1.,0.308,-0.03717257,0.61111111,2,"If we put our minds together, we can figure this problem out!",None,0.0,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1012,548,i am tired noe,0,5,0.,1.,-1.,-0.5,-1.,0.184,-0.03631976,0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1013,548,alon,2,6,0.,1.,-0.33333333,-0.4,-1.,-1.,-0.51046826,0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1014,548,you cont help,,,0.,1.,-0.33333333,-0.4,0.148,-1.,1.,0.61111111,3,Hm... let's keep thinking!,None,-0.025,3,True,8,7,0,38,"12-08-2020-10:54:20-PST
+"
+1015,547,help,,,1.,1.,-0.33333333,-0.6,1.,-1.,1.,1.,3,Hm... let's keep thinking!,True,0.101,4,True,8,7,0,45,"12-08-2020-12:22:17-PST
+"
+1016,552,I don't know.  I think I want your help.,,,-1.,0.25,0.,-0.5,-0.318,-0.692,1.,-0.38888889,1,:),True,3.101,2,True,5,8,3,20,"12-08-2020-13:50:34-PST
+"
+1017,542,can u help,3,7,0.,-0.5,0.,-0.3,0.46,-1.,1.,-0.44444444,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1018,542,what is volume,3,7,0.,-0.5,0.,-0.3,-1.,-1.,1.,-0.44444444,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1019,542,yes,3,7,0.,-0.5,0.,-0.3,1.,-1.,-0.08166112,-0.44444444,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1020,542,yes,3,7,0.,-0.5,0.,-0.3,1.,-1.,-0.08166112,-0.44444444,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1021,542,HOW TO CALCULATE VOLUME,3,7,0.,-0.5,0.,-0.3,-1.,-1.,1.,-0.44444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1022,542,YES,3,7,0.,-0.5,0.,-0.3,1.,-1.,-0.08166112,-0.44444444,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1023,542,its not helpful,,,0.,-0.5,0.,-0.3,-1.,0.076,1.,-0.44444444,1,:),None,4.988,3,True,2,7,5,19,"12-08-2020-14:30:15-PST
+"
+1024,543,you are the best,1,1,-1.,-0.25,-0.66666667,-0.9,0.166,-1.,-0.03507275,-0.22222222,3,Hm... let's keep thinking!,True,0.1,2,True,3,6,4,23,"12-08-2020-14:30:35-PST
+"
+1025,543,what is 90 ties 2,4,1,-1.,-0.25,0.33333333,-0.9,-1.,-1.,1.,-0.22222222,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",None,0.01,2,True,3,6,4,23,"12-08-2020-14:30:35-PST
+"
+1026,543,i dont know,1,1,-1.,-0.25,-0.66666667,-0.9,-1.,-1.,1.,-0.22222222,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,True,3,6,4,23,"12-08-2020-14:30:35-PST
+"
+1027,543,help ,,,-1.,-0.25,0.33333333,-0.9,1.,-1.,1.,-0.22222222,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",True,4.075,2,True,3,6,4,23,"12-08-2020-14:30:35-PST
+"
+1028,544,do i use division?,4,1,-1.,-0.5,0.33333333,-0.9,-1.,-1.,1.,-0.72222222,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,0.0,2,True,2,2,0,14,"12-08-2020-14:52:13-PST
+"
+1029,544,i still don't know,,,-1.,-0.5,0.33333333,-0.9,-1.,-1.,1.,-0.72222222,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,0.001,2,True,2,2,0,14,"12-08-2020-14:52:13-PST
+"
+1030,429,blueberry ,0,2,1.,-0.25,-1.,-0.8,-1.,-1.,-0.3655943,-0.66666667,3,Hm... let's keep thinking!,None,0.0,4,True,3,2,1,15,"12-08-2020-15:43:36-PST
+"
+1031,429,is 90 the answer,,,1.,-0.25,0.33333333,-0.7,-1.,-1.,1.,-0.66666667,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,1.001,4,True,3,2,1,15,"12-08-2020-15:45:25-PST
+"
+1032,545,idk i allready tried,1,8,1.,0.,-0.66666667,-0.2,-1.,-0.176,-0.03631976,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1033,545,i know,1,8,1.,0.,-0.66666667,-0.2,-1.,-1.,1.,-0.66666667,0,Move your mouse along the width to count how many chocolates would fit along the width.,None,0.01,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1034,545,help,3,8,1.,0.,0.,-0.2,1.,-1.,1.,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1035,545,pkease help,1,8,1.,0.,-0.66666667,-0.2,0.46,-1.,1.,-0.66666667,3,Hm... let's keep thinking!,None,0.0,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1036,545,yea please help,3,8,1.,0.,0.,-0.2,0.666,-1.,1.,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1037,545,idk how,,,1.,0.,0.,-0.2,-1.,0.166,1.,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,None,-0.025,4,True,4,1,0,15,"12-08-2020-15:57:45-PST
+"
+1038,555,i need help,0,16,1.,-0.75,-1.,0.6,0.46,-1.,1.,0.61111111,3,Hm... let's keep thinking!,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1039,555,I figured it out.,3,18,1.,-0.75,0.,0.8,-1.,-1.,-0.03631976,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1040,555,really need help,3,18,1.,-0.75,0.,0.8,0.196,-1.,1.,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1041,555,what do you mean by volume,3,18,1.,-0.75,0.,0.8,-1.,-1.,1.,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1042,555,ok,0,16,1.,-0.75,-1.,0.6,1.,-1.,-0.1063473,0.61111111,3,Hm... let's keep thinking!,True,0.1,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1043,555,ok,0,16,1.,-0.75,-1.,0.6,1.,-1.,-0.1063473,0.61111111,3,Hm... let's keep thinking!,True,0.1,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1044,555,i need help now,3,18,1.,-0.75,0.,0.8,0.148,-1.,1.,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1045,555,how,3,18,1.,-0.75,0.,0.8,-1.,-1.,1.,0.61111111,0,A unit cube is a cube of which each side is 1 unit long. The volume of a unit cube is one cubic unit.,None,0.01,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1046,555,please I really need help,3,18,1.,-0.75,0.,0.8,0.45,-1.,1.,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1047,555,need help,3,18,1.,-0.75,0.,0.8,0.46,-1.,1.,0.61111111,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1048,555,hel,3,18,1.,-0.75,0.,0.8,-1.,-1.,-0.3384296,0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1049,555,don't get it,3,18,1.,-0.75,0.,0.8,-1.,-1.,1.,0.61111111,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.0,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1050,555,ok,3,18,1.,-0.75,0.,0.8,1.,-1.,-0.1063473,0.61111111,0,"You won't be able to calculate volume by dragging the chocolate over the box, since it's three-dimensional! Try to use an equation to find the volume:",None,0.01,4,True,1,3,2,38,"12-08-2020-16:40:29-PST
+"
+1051,555,it keeps on saying my anwers is wrong when I am Multiplying everything,,,1.,-0.75,0.,0.8,-1.,-0.56,-0.03631976,0.61111111,0,Think about how to calculate volume with multiplication.,None,1.9589999999999996,4,True,1,3,2,38,"12-08-2020-17:05:24-PST
+"
+1052,557,help,,,1.,0.75,-0.33333333,-0.7,1.,-1.,1.,-0.33333333,3,Hm... let's keep thinking!,True,1.101,4,True,7,7,1,21,"12-08-2020-17:29:38-PST
+"
+1053,564,I need a hint,3,7,-1.,-0.25,0.,-0.3,-1.,-1.,1.,-0.88888889,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,0.01,2,False,3,3,1,11,"12-08-2020-19:39:37-PST
+"
+1054,564,I STILL DON'T UNDERSTAND,3,7,-1.,-0.25,0.,-0.3,-1.,-1.,1.,-0.88888889,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,True,0.1,2,False,3,3,1,11,"12-08-2020-19:39:37-PST
+"
+1055,564,do we have to get it right? I haven't learn that before\,,,-1.,-0.25,0.,-0.3,-1.,-1.,1.,-0.88888889,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,-8,2,False,3,3,1,11,"12-08-2020-20:40:12-PST
+"
+1056,565,i need help,2,3,1.,-0.5,-0.33333333,-0.7,0.46,-1.,1.,-0.66666667,3,Hm... let's keep thinking!,True,0.1,4,True,2,4,3,15,"12-08-2020-20:44:26-PST
+"
+1057,565,I am giving my answer as 14,3,8,1.,-0.5,0.,-0.2,-0.352,-1.,1.,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,None,0.0,4,True,2,4,3,15,"12-08-2020-20:44:26-PST
+"
+1058,565,but it is not it is not taking,,,1.,-0.5,0.,-0.2,-1.,-1.,-0.04149085,-0.66666667,3,Try thinking about the concept of volume to solve this problem.,None,3.001,4,True,2,4,3,15,"12-08-2020-20:44:26-PST
+"
+1059,549,"ok. so on this problem, what's the box's weight again?",0,39,-1.,-0.5,-1.,2.9,-0.678,-0.494,1.,-0.77777778,1,:),None,0.0,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1060,549,just give me 1 hint please!,0,39,-1.,-0.5,-1.,2.9,-0.214,-1.,1.,-0.77777778,3,Hm... let's keep thinking!,True,0.1,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1061,549,hm...thinking,0,39,-1.,-0.5,-1.,2.9,-1.,-1.,-0.05394984,-0.77777778,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1062,549,oh yeah! Thanks!,0,39,-1.,-0.5,-1.,2.9,0.7,-1.,-0.1440913,-0.77777778,3,Hm... let's keep thinking!,None,0.0,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1063,549,oh!,0,39,-1.,-0.5,-1.,2.9,-1.,-1.,-0.20982539,-0.77777778,0,"By sliding the chocolate along the height of the box and using the chocolate as a reference, you will find that the height fits 3 chocolates.",None,0.01,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1064,549,I hit 3 in the box. Now it says i'm incorrect,0,39,-1.,-0.5,-1.,2.9,-1.,-1.,-0.03631976,-0.77777778,2,I love a good challenge. Let’s regroup and think about this some more.,None,0.0,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1065,549,"sure. So, I measured the height and I measured how much long the box is. So I got 96. Tell me how I'm incorrect. Thanks",0,39,-1.,-0.5,-1.,2.9,-0.588,-1.,1.,-0.77777778,1,:),True,0.1,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1066,549,pretty well,0,39,-1.,-0.5,-1.,2.9,1.,-1.,-0.08473219,-0.77777778,0,Move your mouse along the height to count how many chocolates would fit along the height.,None,0.01,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1067,549,ok. let's try brainstorming,0,39,-1.,-0.5,-1.,2.9,-0.154,-1.,-0.04256661,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1068,549,sure,0,39,-1.,-0.5,-1.,2.9,1.,-1.,-0.03072353,-0.77777778,0,You have seen all the hints. Try your best to answer the question!,None,0.01,2,False,2,1,0,13,"12-09-2020-12:57:11-PST
+"
+1069,549,i don't really understand this question,,,-1.,-0.5,-1.,2.9,-1.,-1.,1.,-0.77777778,1,:),None,-8,2,False,2,1,0,13,"12-09-2020-15:56:05-PST
+"
+1070,558,I need help,3,3,-1.,0.,0.,-0.7,0.46,-1.,1.,-0.61111111,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,True,0.1,2,True,4,8,4,16,"12-09-2020-16:08:29-PST
+"
+1071,558,hello,,,-1.,0.,0.,-0.7,-1.,-1.,-0.27493058,-0.61111111,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,4.098,2,True,4,8,4,16,"12-09-2020-16:45:03-PST
+"
+1072,563,help,3,5,0.,0.,0.,-0.5,1.,-1.,1.,-0.94444444,3,Try thinking about the concept of volume to solve this problem.,True,0.1,3,True,4,5,1,10,"12-09-2020-17:08:23-PST
+"
+1073,563,give me a hint,3,5,0.,0.,0.,-0.5,-1.,-1.,1.,-0.94444444,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,4,5,1,10,"12-09-2020-17:08:23-PST
+"
+1074,563,,,,0.,0.,0.,-0.5,-1.,-1.,-1.,-0.94444444,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,None,0.9879999999999999,3,True,4,5,1,10,"12-09-2020-17:08:23-PST
+"
+1075,567,What's 15 x 6,,,0.,-0.25,0.,-0.6,-1.,-1.,1.,-0.44444444,3,Try thinking about the concept of volume to solve this problem.,None,5.001,3,True,3,7,5,19,"12-10-2020-09:33:33-PST
+"
+1076,576,I kind of need help here,3,1,0.,-0.25,0.,-0.9,-0.194,-1.,1.,-0.5,1,:),None,0.0,3,True,3,4,1,18,"12-10-2020-11:49:56-PST
+"
+1077,576,Ok,,,0.,-0.25,0.,-0.9,1.,-1.,-0.1063473,-0.5,3,Try thinking about the concept of volume to solve this problem.,True,1.101,3,True,3,4,1,18,"12-10-2020-11:49:56-PST
+"
+1078,575,Ok thanks,0,1,0.,0.5,-1.,-0.9,1.,-1.,-0.1063473,0.,3,Hm... let's keep thinking!,None,0.0,3,True,6,7,2,27,"12-10-2020-12:59:48-PST
+"
+1079,575,do you have a idea?,,,0.,0.5,-0.33333333,-0.6,-1.,-1.,1.,0.,0,You can move your mouse close to the box to turn it into a chocolate!,None,1.9979999999999998,3,True,6,7,2,27,"12-10-2020-17:52:00-PST
+"
+1080,581,I don't know.Can you help me???,,,-1.,1.,-1.,-0.9,-1.,-0.176,1.,-0.66666667,0,You can move your mouse close to the box to turn it into a chocolate!,None,-0.0020000000000000018,2,True,8,7,0,15,"12-10-2020-19:00:10-PST
+"
+1081,562,HOW MANY CHOCOLATES FIT ALONG THE LENGTH?,2,1,0.,0.,-0.33333333,-0.9,-0.412,-1.,1.,0.11111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,3,True,4,4,2,29,"12-11-2020-00:32:11-PST
+"
+1082,562,How much does the box of chocolates weigh?,4,2,0.,0.,0.33333333,-0.8,-1.,-1.,1.,0.11111111,1,:),None,0.0,3,True,4,4,2,29,"12-11-2020-00:32:11-PST
+"
+1083,562,YOU ARE NOT HELPING ME,,,0.,0.,0.33333333,-0.8,-1.,-0.358,-0.03507275,0.11111111,3,"Think of what equation to use to calculate the total weight, when you know the number of chocolate and how much each chocolate weighs.",None,1.988,3,True,4,4,2,29,"12-11-2020-09:32:22-PST
+"
+1084,589,ok thanks,0,3,1.,-0.25,-1.,-0.7,1.,-1.,-0.1063473,-0.61111111,3,Hm... let's keep thinking!,None,0.0,4,True,3,3,0,16,"12-11-2020-10:05:35-PST
+"
+1085,589,three maybe,0,3,1.,-0.25,-1.,-0.7,-1.,-1.,-0.03681631,-0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,True,0.11,4,True,3,3,0,16,"12-11-2020-10:05:35-PST
+"
+1086,589,im stuck,1,7,1.,-0.25,-0.66666667,-0.3,-1.,0.334,1.,-0.61111111,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,4,True,3,3,0,16,"12-11-2020-10:05:35-PST
+"
+1087,589,ok,1,7,1.,-0.25,-0.66666667,-0.3,1.,-1.,-0.1063473,-0.61111111,3,Hm... let's keep thinking!,None,0.0,4,True,3,3,0,16,"12-11-2020-10:05:35-PST
+"
+1088,589,i need help,1,7,1.,-0.25,-0.66666667,-0.3,0.46,-1.,1.,-0.61111111,3,Hm... let's keep thinking!,None,0.0,4,True,3,3,0,16,"12-11-2020-10:05:35-PST
+"
+1089,589,hey open book help,,,1.,-0.25,-0.66666667,-0.3,-0.052,-1.,1.,-0.61111111,3,Hm... let's keep thinking!,None,-0.025,4,True,3,3,0,16,"12-11-2020-10:39:41-PST
+"
+1090,590,ok,0,2,-1.,-0.25,-1.,-0.8,1.,-1.,-0.1063473,-0.16666667,3,Hm... let's keep thinking!,True,0.1,2,True,3,3,1,24,"12-11-2020-12:13:42-PST
+"
+1091,590,can i have some pointers,,,-1.,-0.25,0.66666667,-0.5,-1.,-1.,1.,-0.16666667,2,The people in the village need you! Keep working hard.,True,1.101,2,True,3,3,1,24,"12-11-2020-13:19:32-PST
+"
+1092,593,I need help!,3,4,0.,-0.25,0.,-0.6,0.498,-1.,1.,-0.72222222,3,Try thinking about the concept of volume to solve this problem.,None,0.0,3,True,3,6,5,14,"12-11-2020-14:09:44-PST
+"
+1093,593,I don't know volume,,,0.,-0.25,0.,-0.6,-1.,-1.,1.,-0.72222222,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",None,4.998,3,True,3,6,5,14,"12-11-2020-14:09:44-PST
+"
+1094,541,whats 18 x5,3,2,0.,0.5,0.,-0.8,-1.,-1.,-0.2021038,-0.83333333,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,3,True,6,6,1,12,"12-11-2020-14:48:52-PST
+"
+1095,541,ok,3,2,0.,0.5,0.,-0.8,1.,-1.,-0.1063473,-0.83333333,3,Hm… I suggest thinking about the concept of a unit cube and the volume of a unit cube. It may remind you of what you need in order to calculate the volume of the box!,True,0.1,3,True,6,6,1,12,"12-11-2020-14:48:52-PST
+"
+1096,541,thums up,,,0.,0.5,0.33333333,-0.9,-1.,-1.,-0.1003883,-0.83333333,0,"To calculate the weight of the box of chocolates, you can multiply the weight of each chocolate and the total number of chocolates you have in the box.",True,1.085,3,True,6,6,1,12,"12-11-2020-14:48:52-PST
+"
+1097,595,help me please,3,28,-1.,0.,0.,1.8,0.666,-1.,1.,-0.22222222,0,"You can fit 3 chocolates along the height, 5 chocolates along the width, and 6 chocolates along the length of the box.",True,0.11,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1098,595,help me,3,28,-1.,0.,0.,1.8,0.46,-1.,1.,-0.22222222,2,I’m so glad you’re here to help. I know you can solve this problem!,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1099,595,hi ,3,28,-1.,0.,0.,1.8,-1.,-1.,-0.29048756,-0.22222222,3,Try thinking about the concept of volume to solve this problem.,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1100,595,how many chocolates can fit in the box,3,28,-1.,0.,0.,1.8,-0.474,-1.,1.,-0.22222222,2,I love a good challenge. Let’s regroup and think about this some more.,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1101,595,,3,28,-1.,0.,0.,1.8,-1.,-1.,-1.,-0.22222222,2,You’re super close! Let’s think about this a little more and try again.,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1102,595,un done,3,28,-1.,0.,0.,1.8,-1.,-1.,-0.04223199,-0.22222222,2,"Hey, let’s think this through together. I know we can do it!",True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1103,595,help me please,3,28,-1.,0.,0.,1.8,0.666,-1.,1.,-0.22222222,2,You’re almost there. Just keep trying!,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1104,595,i need a hint,3,28,-1.,0.,0.,1.8,-1.,-1.,1.,-0.22222222,2,You’re almost there. Just keep trying!,True,0.1,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1105,595,i quit,0,4,-1.,0.,-1.,-0.6,-1.,-1.,-0.03631976,-0.22222222,0,You can move your mouse close to the box to turn it into a chocolate!,None,0.01,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1106,595,im done,3,28,-1.,0.,0.,1.8,-1.,-1.,-0.04223199,-0.22222222,2,You’re almost there. Just keep trying!,None,0.0,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1107,595,im done ,3,28,-1.,0.,0.,1.8,-1.,-1.,-0.04223199,-0.22222222,2,I know we can do this together. Keep thinking!,None,0.0,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1108,595,finshed,,,-1.,0.,0.,1.8,-1.,-1.,-0.40679057,-0.22222222,2,You’re doing a great job so far. Just keep trying!,None,-8,2,False,4,4,0,23,"12-11-2020-15:50:23-PST
+"
+1109,591,Im getting stuck on this problem...Any tips?,,,1.,0.5,0.,-0.9,-1.,-0.5,1.,0.27777778,3,Try thinking about the concept of volume to solve this problem.,None,0.001,4,True,6,4,0,32,"12-11-2020-16:15:38-PST
+"
+1110,529,what is the answer,3,69,-1.,-0.25,0.,5.9,-1.,-1.,1.,-0.83333333,3,Try thinking about the concept of volume to solve this problem.,None,0.0,2,True,3,7,4,12,"12-11-2020-19:59:42-PST
+"
+1111,529,i need help,3,69,-1.,-0.25,0.,5.9,0.46,-1.,1.,-0.83333333,1,:),None,0.0,2,True,3,7,4,12,"12-11-2020-19:59:42-PST
+"
+1112,529,can you talk the problem with me,3,69,-1.,-0.25,0.,5.9,-1.,-0.38,-0.03507275,-0.83333333,2,I know we can do this together. Keep thinking!,None,0.0,2,True,3,7,4,12,"12-11-2020-19:59:42-PST
+"
+1113,529,i don't know,3,69,-1.,-0.25,0.,5.9,-1.,-1.,1.,-0.83333333,2,"If we put our minds together, we can figure this problem out!",None,0.0,2,True,3,7,4,12,"12-11-2020-19:59:42-PST
+"
+1114,529,can you help me,3,69,-1.,-0.25,0.,5.9,-0.052,-1.,1.,-0.83333333,2,You’re doing a great job so far. Just keep trying!,None,0.0,2,True,3,7,4,12,"12-11-2020-19:59:42-PST
+"
+1115,529,never,,,-1.,-0.25,0.,5.9,-1.,-1.,-0.04970762,-0.83333333,2,"This problem is tough, but I know that we can finish it if we think hard enough. Keep trying!",None,4.001,2,True,3,7,4,12,"12-13-2020-16:34:49-PST
+"
