@@ -48,7 +48,7 @@ class MLPPolicy(nn.Module):
             layers += [nn.Linear(sizes[j], sizes[j + 1]), act()]
         self.net = nn.Sequential(*layers)
 
-    def get_action_probability(self, obs, no_grad=True, action_mask=None):
+    def get_action_probability(self, obs, no_grad=True, action_mask=None, temperature=1):
         # obs: [batch_size, obs_dim]
         # we add a mask to forbid certain actions being taken
         if no_grad:
@@ -56,9 +56,9 @@ class MLPPolicy(nn.Module):
                 logits = self.net(obs)
                 # mask here
                 if action_mask is not None:
-                    probs = masked_softmax(logits, action_mask)
+                    probs = masked_softmax(logits / temperature, action_mask)
                 else:
-                    probs = F.softmax(logits, dim=-1)
+                    probs = F.softmax(logits / temperature, dim=-1)
         else:
             logits = self.net(obs)
             # mask here

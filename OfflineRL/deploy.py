@@ -42,12 +42,6 @@ def generate_features(norm_ob_row, unnormed_ob_row):
 
     return features
 
-# feature_names = ['stage_norm', 'failed_attempts_norm', 'pos_norm', 'neg_norm',
-#                  'hel_norm', 'anxiety_norm', 'grade_norm', 'pre', 'anxiety']
-# 'grade_norm' and 'pre' are relatively categorical/discrete
-#unused_features = ['input_message_kid', 'time_stored', 'grade']
-categorical_features = ['stage']  # postive_feedback
-
 def normalize(ob):
     return (ob - [3, 4, 3, 10, 0.5, 0.5, 0.5, 27])/ [1, 4, 3, 10, 0.5, 0.5, 0.5, 18]
 
@@ -98,14 +92,12 @@ class DeployPolicy(nn.Module):
     def load_model(self, ckpt_path):
         self.policy.load_state_dict(torch.load(ckpt_path))
 
-    def get_action(self, obs):
+    def get_action(self, obs, temperature=1):
         # Crucial note: this takes in "normalized" data
-
         # Not-batched
 
         # input obs: numpy array
-
-        # Step 1, let's un-normalize it
+        # ['grade', 'pre', 'stage', 'failed_attempts', 'pos', 'neg', 'help', 'anxiety']
 
         features = np.zeros(10)
         features[0] = obs[2]
@@ -126,7 +118,7 @@ class DeployPolicy(nn.Module):
 
         features = torch.from_numpy(np.array(features)).float()
 
-        probs = self.policy.get_action_probability(features, no_grad=True)
+        probs = self.policy.get_action_probability(features, no_grad=True, temperature=temperature)
         print(probs)
 
         # Step 2, let's sample it
@@ -155,7 +147,6 @@ class DeployPolicy(nn.Module):
     def update(self):
         pass
 
-# This works with "children_probs.csv"
 
 MAX_TIME = 28
 
