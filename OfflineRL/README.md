@@ -26,4 +26,23 @@ Other available utility functions:
 - Action masking through `masked_softmax` method (during policy gradient)
 - KNN-style action masking (by loading in externally trained KNN weights)
 
-Plotting code upload (TBD).
+## Deployment
+
+```python
+from deploy import load_pytorch_agent, DeployPolicy
+
+policy = load_pytorch_agent()
+student1 = [
+ [-1., -0.5,-0.33333333,-0.7,-1.,-1,1,-0.83333333],
+ [-1,-0.5,0,-0.8, -1,-1,1,-0.833333],
+ [-1,-0.5,0,-0.8, -1,0.076,-1,-0.833333],
+ [-1,-0.5,0,-0.4, -1,-1,-1,-0.833333],
+ [-1,-0.5,0,-0.4, -0.032, -0.29,-1,-0.8333333],
+ [-1,-0.5,0, 0.2, -1, 0.334,-1,-0.833333],
+ [-1,-0.5,0,0.2,1,-1,1,-0.8333333],
+ [-1,-0.5,0,0.3,1,-1,1,-0.8333333]
+]
+print(["p_hint", "p_nothing", "p_encourage", "p_question"])
+for obs in student2:
+    print(policy.get_action(np.array(obs), temperature=0.9))
+```
